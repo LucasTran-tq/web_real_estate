@@ -1,6 +1,6 @@
-Frontend: ReactJS
-Backend: Nodejs
-Database: MongoDb
+1. Frontend: ReactJS
+2. Backend: Nodejs
+3. Database: MongoDb
 
 # Vui lòng đọc trước khi test
 # Cho việc test trên môi trường development (localhost)
