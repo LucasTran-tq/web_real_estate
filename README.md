@@ -1,4 +1,6 @@
-# Kênh Tài Liệu
+Frontend: ReactJS
+Backend: Nodejs
+Database: MongoDb
 
 # Vui lòng đọc trước khi test
 # Cho việc test trên môi trường development (localhost)
