@@ -1,0 +1,64 @@
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a323"},"provinceName":"Tỉnh Hà Giang","fakeId":2,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a324"},"provinceName":"Tỉnh Cao Bằng","fakeId":4,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a325"},"provinceName":"Tỉnh Bắc Kạn","fakeId":6,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a326"},"provinceName":"Tỉnh Tuyên Quang","fakeId":8,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a327"},"provinceName":"Tỉnh Lào Cai","fakeId":10,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a328"},"provinceName":"Tỉnh Điện Biên","fakeId":11,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a32b"},"provinceName":"Tỉnh Yên Bái","fakeId":15,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a32d"},"provinceName":"Tỉnh Thái Nguyên","fakeId":19,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a32f"},"provinceName":"Tỉnh Quảng Ninh","fakeId":22,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a330"},"provinceName":"Tỉnh Bắc Giang","fakeId":24,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a331"},"provinceName":"Tỉnh Phú Thọ","fakeId":25,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a332"},"provinceName":"Tỉnh Vĩnh Phúc","fakeId":26,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a334"},"provinceName":"Tỉnh Hải Dương","fakeId":30,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a333"},"provinceName":"Tỉnh Bắc Ninh","fakeId":27,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a335"},"provinceName":"Thành phố Hải Phòng","fakeId":31,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a336"},"provinceName":"Tỉnh Hưng Yên","fakeId":33,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a322"},"provinceName":"Thành phố Hà Nội","fakeId":1,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a339"},"provinceName":"Tỉnh Nam Định","fakeId":36,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a329"},"provinceName":"Tỉnh Lai Châu","fakeId":12,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a337"},"provinceName":"Tỉnh Thái Bình","fakeId":34,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a32a"},"provinceName":"Tỉnh Sơn La","fakeId":14,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a338"},"provinceName":"Tỉnh Hà Nam","fakeId":35,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a32c"},"provinceName":"Tỉnh Hoà Bình","fakeId":17,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a32e"},"provinceName":"Tỉnh Lạng Sơn","fakeId":20,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a33a"},"provinceName":"Tỉnh Ninh Bình","fakeId":37,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a33b"},"provinceName":"Tỉnh Thanh Hóa","fakeId":38,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a33c"},"provinceName":"Tỉnh Nghệ An","fakeId":40,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a33d"},"provinceName":"Tỉnh Hà Tĩnh","fakeId":42,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a33e"},"provinceName":"Tỉnh Quảng Bình","fakeId":44,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a33f"},"provinceName":"Tỉnh Quảng Trị","fakeId":45,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a340"},"provinceName":"Tỉnh Thừa Thiên Huế","fakeId":46,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a341"},"provinceName":"Thành phố Đà Nẵng","fakeId":48,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a342"},"provinceName":"Tỉnh Quảng Nam","fakeId":49,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a343"},"provinceName":"Tỉnh Quảng Ngãi","fakeId":51,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a344"},"provinceName":"Tỉnh Bình Định","fakeId":52,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a345"},"provinceName":"Tỉnh Phú Yên","fakeId":54,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a346"},"provinceName":"Tỉnh Khánh Hòa","fakeId":56,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a347"},"provinceName":"Tỉnh Ninh Thuận","fakeId":58,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a348"},"provinceName":"Tỉnh Bình Thuận","fakeId":60,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a349"},"provinceName":"Tỉnh Kon Tum","fakeId":62,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a34a"},"provinceName":"Tỉnh Gia Lai","fakeId":64,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a34b"},"provinceName":"Tỉnh Đắk Lắk","fakeId":66,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a34c"},"provinceName":"Tỉnh Đắk Nông","fakeId":67,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a34d"},"provinceName":"Tỉnh Lâm Đồng","fakeId":68,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a34e"},"provinceName":"Tỉnh Bình Phước","fakeId":70,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a34f"},"provinceName":"Tỉnh Tây Ninh","fakeId":72,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a350"},"provinceName":"Tỉnh Bình Dương","fakeId":74,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a351"},"provinceName":"Tỉnh Đồng Nai","fakeId":75,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a352"},"provinceName":"Tỉnh Bà Rịa - Vũng Tàu","fakeId":77,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a353"},"provinceName":"Thành phố Hồ Chí Minh","fakeId":79,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a354"},"provinceName":"Tỉnh Long An","fakeId":80,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a355"},"provinceName":"Tỉnh Tiền Giang","fakeId":82,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a356"},"provinceName":"Tỉnh Bến Tre","fakeId":83,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a357"},"provinceName":"Tỉnh Trà Vinh","fakeId":84,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a358"},"provinceName":"Tỉnh Vĩnh Long","fakeId":86,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a359"},"provinceName":"Tỉnh Đồng Tháp","fakeId":87,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a35a"},"provinceName":"Tỉnh An Giang","fakeId":89,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a35b"},"provinceName":"Tỉnh Kiên Giang","fakeId":91,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a35c"},"provinceName":"Thành phố Cần Thơ","fakeId":92,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a35d"},"provinceName":"Tỉnh Hậu Giang","fakeId":93,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a35e"},"provinceName":"Tỉnh Sóc Trăng","fakeId":94,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a35f"},"provinceName":"Tỉnh Bạc Liêu","fakeId":95,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a360"},"provinceName":"Tỉnh Cà Mau","fakeId":96,"__v":0}
+{"_id":{"$oid":"60b7a50331c6ba3de5e7a361"},"provinceName":"Tỉnh Hòa Bình","fakeId":97,"__v":0}

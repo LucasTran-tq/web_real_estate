@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap");
+$primaryColor: #a18474;
+$primaryFont: Roboto;
+$background: url("../assests/405_error/405_error_v2.png");
+.container {
+  border-radius: 10px;
+  width: 96%;
+  height: 100vh;
+  float: right;
+  margin-right: 24px;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  background-image: $background;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.title {
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: 0.25px;
+  text-align: center;
+  color: $primaryColor;
+  font-family: $primaryFont;
+}
+.mainButton {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: $primaryColor;
+  margin-top: 64px;
+  font-family: $primaryFont;
+  color: white;
+  font-style: normal;
+  padding: 0;
+  font-weight: 700;
+  font-size: 16px;
+  width: 238px;
+  height: 64px;
+  border-radius: 10px;
+  :focus {
+    outline: none;
+  }
+
+  a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 238px;
+    height: 64px;
+
+    div {
+      font-style: normal;
+      font-weight: 700;
+      font-size: 16px;
+    }
+  }
+}

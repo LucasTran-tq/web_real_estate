@@ -1,0 +1,75 @@
+
+
+/*
+slogan
+*/
+
+.slogan_wrapper
+{
+    align-items: center;
+    justify-content: center;
+    display:flex;    
+    margin:28px auto 0px;
+    width: 888px;
+}
+
+
+.slogan_frame
+{ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 120px;
+}
+
+.slogan_picture_left
+{
+    width: 56px;
+}
+.slogan_picture_mid
+{
+    width:61px
+}
+.slogan_picture_right
+{
+    width:66px
+}
+
+.slogan_frame_picture > img
+{
+
+}
+.slogan_frame_title
+{
+    text-align: center;
+    margin-top: 12px;
+    width:296px;
+    height: 23px;
+    font-weight:500;
+    font-style: normal;
+    font-size:20px;
+    line-height: 23px;
+    color: #A18474;
+}
+.slogan_frame_content
+{
+    text-align: center;
+    width: 180px;
+    height: 32px;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 500;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 12px;
+}
+
+.slogan_frame_content >h1
+{
+    width: 185px;
+}
+
+
+
+

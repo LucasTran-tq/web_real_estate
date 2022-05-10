@@ -1,0 +1,24 @@
+.special-card-container{
+    width: 283px;
+    height: 330px;
+    display: flex;
+    align-items: flex-end;
+}
+.special-card-content{
+    background: rgba(161, 132, 116, .8);
+    color: #fff;
+   padding: 24px 39px 29px 24px;
+   width: 100%;
+   height: 128px;
+}
+
+.special-card-title{
+    font-size: 16px;
+    line-height: 19.2px;
+    margin-bottom: 8px;
+}
+
+.special-card-p{
+    font-size: 20px;
+    line-height: 24px;
+}

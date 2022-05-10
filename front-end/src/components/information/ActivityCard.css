@@ -1,0 +1,24 @@
+.activity-card-container{
+    width: 283px;
+    height: 206px;
+    display: flex;
+    align-items: flex-end;
+}
+.activity-card-content{
+    background: rgba(161, 132, 116, .8);
+    color: #fff;
+   padding: 11px 0px 11px 24px;
+   width: 259px;
+   height: 62px;
+}
+
+.activity-card-title{
+    font-size: 14px;
+    line-height: 16.8px;
+    margin-bottom: 4px;
+}
+
+.activity-card-p{
+    font-size: 16px;
+    line-height: 19.2px;
+}

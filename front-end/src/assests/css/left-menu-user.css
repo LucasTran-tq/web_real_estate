@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
+
+.user-manage * {
+    font-family: "Roboto", sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.user-manage{
+    display: flex;
+    flex-direction: column;
+}
+.user-manage__container{
+    display: flex;
+}
+
+.user-manage__menu{
+    width: 231px;
+    padding-left: 24px;
+}
+
+.menu__container{
+    display: flex;
+    flex-direction: column;
+}
+
+.menu__logo {
+    width: 100%;
+    padding-bottom: 25px;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+
+.menu__logo-img{
+    display: block;
+    margin-top: 24px;
+}
+
+.button__container{
+    display: flex;
+    align-items: center;
+    height: 37px;
+    margin: 0 2.5px;
+    position: relative;
+    transition: all 0.3s linear;
+    cursor: pointer;
+}
+
+.button__container:hover{
+    left: 6px;
+}
+
+.button__focus{
+    padding: 8px 0 9px 8px;
+    margin-left: -8px;
+    background-color: #A18474;
+    border-radius: 5px;
+}
+
+.button__focus:hover{
+    left: 0px;
+}
+
+.button__focus .button__name{
+    color: #FFFFFF !important;
+
+}
+
+.button__img{
+    max-width: 36px;
+    height: auto;
+    max-height: 20px;
+}
+
+.button__name{
+    color: #000;
+    font-size: 16px;
+    line-height: 18.75px;
+    font-weight: 400;
+    margin-left: 10px;
+}
+
+.group-container-title{
+    display:block;
+    margin: 15px 0;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21.09px;
+    opacity: 0.5;
+}

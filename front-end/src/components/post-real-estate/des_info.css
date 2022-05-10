@@ -1,0 +1,65 @@
+.describe_info{
+    margin-top: 28px;
+    padding: 24px;
+    width: 1012px;
+    height: 306px;
+    background: #fff;
+    border-radius: 15px;
+    position: relative;
+}
+.describe_info h1{
+    color: rgba(161, 132, 116, 1);
+    font-size:16px;
+    font-weight: 500;
+    line-height: 18.75px;
+}
+.describe_info textarea{
+    border:1px solid #A18474;
+    border-radius: 10px;
+    padding: 16px 24px 0 16px;
+    width: 964px;
+    height: 192px;
+    position: relative;
+    outline: none;
+    font-size: 14px;
+    font-weight: 500;
+}
+.describe_info p.active {
+    margin-top: -4px !important;
+    font-size: 12px;
+    color: red;
+    display: block;
+}
+.describe_info p.non-active {
+    display: none;
+}
+.describe_info textarea::placeholder{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    color: #000;
+    opacity: 0.5;
+}
+.describe_info p{
+    margin-bottom: 12px;
+    margin-top:16px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height:18.75px;
+}
+.describe_info span{
+    color: red;
+}
+.describe_info span.count-content{
+    position: absolute;
+    color: #000000;
+    opacity: 0.5;
+    top: 60px;
+    right: 25px;
+}
+.describe_info textarea:valid{
+    text-decoration: none;
+}
+.describe_info textarea:invalid{
+    text-decoration: underline red solid;
+}

@@ -1,0 +1,1 @@
+export const onDevelopingList = ["/posts", "/thinhhja2001"];

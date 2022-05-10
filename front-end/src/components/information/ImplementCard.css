@@ -1,0 +1,45 @@
+
+.implement-card-container{
+    width: 888px;
+    height: 450px;
+    display: flex;
+}
+.implement-card-main-content{
+    display: flex;
+    flex-direction: column;
+}
+.implement-title{
+    font-size: 16px;
+    color: #000;
+    line-height: 18.75px;
+    margin-bottom: 8px;
+}
+.implement-name{
+    color: #A18474;
+    font-size: 24px;
+    line-height: 28.13px;
+    margin-bottom: 16px;
+}
+.implement-content{
+    font-size: 12px;
+    line-height: 14.06px;
+    color: rgba(0,0,0,.6);
+}
+.implement-card-col1{
+    padding: 48px 24px 48px 24px;
+    width: 283px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background: #fff;
+}
+.implement-card-col2{
+    width: 605px;
+    height: 450px;
+}
+
+.implement-explore{
+    color: #A18474;
+    font-size: 16px;
+}

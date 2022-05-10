@@ -1,0 +1,705 @@
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3cb"},"districtName":"Quận Hoàn Kiếm","districtNameEn":"none","fakeId":2,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a322"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3cd"},"districtName":"Quận Long Biên","districtNameEn":"none","fakeId":4,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a322"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3cc"},"districtName":"Quận Tây Hồ","districtNameEn":"Tay Ho Dist","fakeId":3,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a322"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3ce"},"districtName":"Quận Cầu Giấy","districtNameEn":"none","fakeId":5,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a322"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3cf"},"districtName":"Quận Đống Đa","districtNameEn":"none","fakeId":6,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a322"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3d1"},"districtName":"Quận Hoàng Mai","districtNameEn":"none","fakeId":8,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a322"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3d0"},"districtName":"Quận Hai Bà Trưng","districtNameEn":"none","fakeId":7,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a322"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3d2"},"districtName":"Quận Thanh Xuân","districtNameEn":"none","fakeId":9,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a322"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3d3"},"districtName":"Huyện Sóc Sơn","districtNameEn":"none","fakeId":16,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a322"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3d4"},"districtName":"Huyện Đông Anh","districtNameEn":"none","fakeId":17,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a322"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3d8"},"districtName":"Quận Bắc Từ Liêm","districtNameEn":"none","fakeId":21,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a322"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3d6"},"districtName":"Quận Nam Từ Liêm","districtNameEn":"none","fakeId":19,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a322"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3d7"},"districtName":"Huyện Thanh Trì","districtNameEn":"none","fakeId":20,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a322"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3d5"},"districtName":"Huyện Gia Lâm","districtNameEn":"none","fakeId":18,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a322"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3dc"},"districtName":"Huyện Ba Vì","districtNameEn":"none","fakeId":271,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a322"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3dd"},"districtName":"Huyện Phúc Thọ","districtNameEn":"none","fakeId":272,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a322"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3d9"},"districtName":"Huyện Mê Linh","districtNameEn":"none","fakeId":250,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a322"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3df"},"districtName":"Huyện Hoài Đức","districtNameEn":"none","fakeId":274,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a322"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3de"},"districtName":"Huyện Đan Phượng","districtNameEn":"none","fakeId":273,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a322"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3da"},"districtName":"Quận Hà Đông","districtNameEn":"none","fakeId":268,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a322"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3db"},"districtName":"Thị xã Sơn Tây","districtNameEn":"none","fakeId":269,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a322"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3ca"},"districtName":"Quận Ba Đình","districtNameEn":"none","fakeId":1,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a322"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3e0"},"districtName":"Huyện Quốc Oai","districtNameEn":"none","fakeId":275,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a322"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3e1"},"districtName":"Huyện Thạch Thất","districtNameEn":"none","fakeId":276,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a322"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3e2"},"districtName":"Huyện Chương Mỹ","districtNameEn":"none","fakeId":277,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a322"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3e3"},"districtName":"Huyện Thanh Oai","districtNameEn":"none","fakeId":278,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a322"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3e4"},"districtName":"Huyện Thường Tín","districtNameEn":"none","fakeId":279,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a322"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3e5"},"districtName":"Huyện Phú Xuyên","districtNameEn":"none","fakeId":280,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a322"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3e6"},"districtName":"Huyện Ứng Hòa","districtNameEn":"none","fakeId":281,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a322"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3e7"},"districtName":"Huyện Mỹ Đức","districtNameEn":"none","fakeId":282,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a322"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3e8"},"districtName":"Thành phố Hà Giang","districtNameEn":"none","fakeId":24,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a323"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3e9"},"districtName":"Huyện Đồng Văn","districtNameEn":"none","fakeId":26,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a323"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3ea"},"districtName":"Huyện Mèo Vạc","districtNameEn":"none","fakeId":27,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a323"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3eb"},"districtName":"Huyện Yên Minh","districtNameEn":"none","fakeId":28,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a323"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3ec"},"districtName":"Huyện Quản Bạ","districtNameEn":"none","fakeId":29,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a323"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3ed"},"districtName":"Huyện Vị Xuyên","districtNameEn":"none","fakeId":30,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a323"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3ee"},"districtName":"Huyện Bắc Mê","districtNameEn":"none","fakeId":31,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a323"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3ef"},"districtName":"Huyện Hoàng Su Phì","districtNameEn":"none","fakeId":32,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a323"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3f0"},"districtName":"Huyện Xín Mần","districtNameEn":"none","fakeId":33,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a323"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3f1"},"districtName":"Huyện Bắc Quang","districtNameEn":"none","fakeId":34,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a323"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3f2"},"districtName":"Huyện Quang Bình","districtNameEn":"none","fakeId":35,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a323"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3f3"},"districtName":"Thành phố Cao Bằng","districtNameEn":"none","fakeId":40,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a324"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3f4"},"districtName":"Huyện Bảo Lâm","districtNameEn":"none","fakeId":42,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a324"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3f5"},"districtName":"Huyện Bảo Lạc","districtNameEn":"none","fakeId":43,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a324"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3f6"},"districtName":"Huyện Hà Quảng","districtNameEn":"none","fakeId":45,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a324"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3f7"},"districtName":"Huyện Trùng Khánh","districtNameEn":"none","fakeId":47,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a324"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3f8"},"districtName":"Huyện Hạ Lang","districtNameEn":"none","fakeId":48,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a324"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3f9"},"districtName":"Huyện Quảng Hòa","districtNameEn":"none","fakeId":49,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a324"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3fa"},"districtName":"Huyện Hoà An","districtNameEn":"none","fakeId":51,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a324"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3fb"},"districtName":"Huyện Nguyên Bình","districtNameEn":"none","fakeId":52,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a324"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3fc"},"districtName":"Huyện Thạch An","districtNameEn":"none","fakeId":53,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a324"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3fd"},"districtName":"Thành Phố Bắc Kạn","districtNameEn":"none","fakeId":58,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a325"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3fe"},"districtName":"Huyện Pác Nặm","districtNameEn":"none","fakeId":60,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a325"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a3ff"},"districtName":"Huyện Ba Bể","districtNameEn":"none","fakeId":61,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a325"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a400"},"districtName":"Huyện Ngân Sơn","districtNameEn":"none","fakeId":62,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a325"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a401"},"districtName":"Huyện Bạch Thông","districtNameEn":"none","fakeId":63,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a325"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a402"},"districtName":"Huyện Chợ Đồn","districtNameEn":"none","fakeId":64,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a325"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a403"},"districtName":"Huyện Chợ Mới","districtNameEn":"none","fakeId":65,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a325"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a404"},"districtName":"Huyện Na Rì","districtNameEn":"none","fakeId":66,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a325"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a405"},"districtName":"Thành phố Tuyên Quang","districtNameEn":"none","fakeId":70,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a326"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a406"},"districtName":"Huyện Lâm Bình","districtNameEn":"none","fakeId":71,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a326"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a407"},"districtName":"Huyện Na Hang","districtNameEn":"none","fakeId":72,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a326"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a408"},"districtName":"Huyện Chiêm Hóa","districtNameEn":"none","fakeId":73,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a326"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a409"},"districtName":"Huyện Hàm Yên","districtNameEn":"none","fakeId":74,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a326"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a40a"},"districtName":"Huyện Yên Sơn","districtNameEn":"none","fakeId":75,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a326"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a40b"},"districtName":"Huyện Sơn Dương","districtNameEn":"none","fakeId":76,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a326"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a40c"},"districtName":"Thành phố Lào Cai","districtNameEn":"Lao Cai City","fakeId":80,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a327"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a40d"},"districtName":"Huyện Bát Xát","districtNameEn":"none","fakeId":82,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a327"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a40e"},"districtName":"Huyện Mường Khương","districtNameEn":"none","fakeId":83,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a327"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a40f"},"districtName":"Huyện Si Ma Cai","districtNameEn":"none","fakeId":84,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a327"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a410"},"districtName":"Huyện Bắc Hà","districtNameEn":"none","fakeId":85,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a327"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a411"},"districtName":"Huyện Bảo Thắng","districtNameEn":"none","fakeId":86,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a327"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a412"},"districtName":"Huyện Bảo Yên","districtNameEn":"none","fakeId":87,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a327"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a413"},"districtName":"Thị xã Sa Pa","districtNameEn":"none","fakeId":88,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a327"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a414"},"districtName":"Huyện Văn Bàn","districtNameEn":"none","fakeId":89,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a327"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a415"},"districtName":"Thành phố Điện Biên Phủ","districtNameEn":"none","fakeId":94,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a328"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a416"},"districtName":"Thị Xã Mường Lay","districtNameEn":"none","fakeId":95,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a328"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a417"},"districtName":"Huyện Mường Nhé","districtNameEn":"none","fakeId":96,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a328"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a418"},"districtName":"Huyện Mường Chà","districtNameEn":"none","fakeId":97,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a328"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a419"},"districtName":"Huyện Tủa Chùa","districtNameEn":"none","fakeId":98,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a328"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a41a"},"districtName":"Huyện Tuần Giáo","districtNameEn":"none","fakeId":99,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a328"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a41b"},"districtName":"Huyện Điện Biên","districtNameEn":"none","fakeId":100,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a328"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a41c"},"districtName":"Huyện Điện Biên Đông","districtNameEn":"none","fakeId":101,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a328"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a41d"},"districtName":"Huyện Mường Ảng","districtNameEn":"none","fakeId":102,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a328"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a41e"},"districtName":"Huyện Nậm Pồ","districtNameEn":"none","fakeId":103,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a328"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a41f"},"districtName":"Thành phố Lai Châu","districtNameEn":"none","fakeId":105,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a329"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a420"},"districtName":"Huyện Tam Đường","districtNameEn":"none","fakeId":106,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a329"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a421"},"districtName":"Huyện Mường Tè","districtNameEn":"none","fakeId":107,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a329"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a422"},"districtName":"Huyện Sìn Hồ","districtNameEn":"none","fakeId":108,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a329"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a423"},"districtName":"Huyện Phong Thổ","districtNameEn":"none","fakeId":109,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a329"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a424"},"districtName":"Huyện Than Uyên","districtNameEn":"none","fakeId":110,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a329"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a425"},"districtName":"Huyện Tân Uyên","districtNameEn":"none","fakeId":111,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a329"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a426"},"districtName":"Huyện Nậm Nhùn","districtNameEn":"none","fakeId":112,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a329"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a427"},"districtName":"Thành phố Sơn La","districtNameEn":"none","fakeId":116,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32a"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a428"},"districtName":"Huyện Quỳnh Nhai","districtNameEn":"none","fakeId":118,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32a"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a429"},"districtName":"Huyện Thuận Châu","districtNameEn":"none","fakeId":119,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32a"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a42a"},"districtName":"Huyện Mường La","districtNameEn":"none","fakeId":120,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32a"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a42b"},"districtName":"Huyện Bắc Yên","districtNameEn":"none","fakeId":121,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32a"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a42c"},"districtName":"Huyện Phù Yên","districtNameEn":"none","fakeId":122,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32a"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a42d"},"districtName":"Huyện Mộc Châu","districtNameEn":"none","fakeId":123,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32a"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a42e"},"districtName":"Huyện Yên Châu","districtNameEn":"none","fakeId":124,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32a"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a42f"},"districtName":"Huyện Mai Sơn","districtNameEn":"none","fakeId":125,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32a"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a430"},"districtName":"Huyện Sông id","districtNameEn":"none","fakeId":126,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32a"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a431"},"districtName":"Huyện Sốp Cộp","districtNameEn":"none","fakeId":127,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32a"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a432"},"districtName":"Huyện Vân Hồ","districtNameEn":"none","fakeId":128,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32a"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a433"},"districtName":"Thành phố Yên Bái","districtNameEn":"none","fakeId":132,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a434"},"districtName":"Thị xã Nghĩa Lộ","districtNameEn":"none","fakeId":133,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a435"},"districtName":"Huyện Lục Yên","districtNameEn":"none","fakeId":135,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a436"},"districtName":"Huyện Văn Yên","districtNameEn":"none","fakeId":136,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a437"},"districtName":"Huyện Mù Căng Chải","districtNameEn":"none","fakeId":137,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a438"},"districtName":"Huyện Trấn Yên","districtNameEn":"none","fakeId":138,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a439"},"districtName":"Huyện Trạm Tấu","districtNameEn":"none","fakeId":139,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a43a"},"districtName":"Huyện Văn Chấn","districtNameEn":"none","fakeId":140,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a43b"},"districtName":"Huyện Yên Bình","districtNameEn":"none","fakeId":141,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a43c"},"districtName":"Thành phố Hòa Bình","districtNameEn":"Hòa Bình City","fakeId":148,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32c"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a43d"},"districtName":"Huyện Đà Bắc","districtNameEn":"none","fakeId":150,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32c"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a43e"},"districtName":"Huyện Lương Sơn","districtNameEn":"none","fakeId":152,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32c"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a43f"},"districtName":"Huyện Kim Bôi","districtNameEn":"none","fakeId":153,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32c"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a440"},"districtName":"Huyện Cao Phong","districtNameEn":"none","fakeId":154,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32c"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a441"},"districtName":"Huyện Tân Lạc","districtNameEn":"none","fakeId":155,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32c"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a442"},"districtName":"Huyện Mai Châu","districtNameEn":"none","fakeId":156,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32c"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a443"},"districtName":"Huyện Lạc Sơn","districtNameEn":"none","fakeId":157,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32c"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a444"},"districtName":"Huyện Yên Thủy","districtNameEn":"none","fakeId":158,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32c"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a445"},"districtName":"Huyện Lạc Thủy","districtNameEn":"none","fakeId":159,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32c"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a446"},"districtName":"Thành phố Thái Nguyên","districtNameEn":"none","fakeId":164,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32d"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a447"},"districtName":"Thành phố Sông Công","districtNameEn":"none","fakeId":165,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32d"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a448"},"districtName":"Huyện Định Hóa","districtNameEn":"none","fakeId":167,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32d"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a449"},"districtName":"Huyện Phú Lương","districtNameEn":"none","fakeId":168,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32d"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a44a"},"districtName":"Huyện Đồng Hỷ","districtNameEn":"none","fakeId":169,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32d"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a44b"},"districtName":"Huyện Võ Nhai","districtNameEn":"none","fakeId":170,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32d"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a44c"},"districtName":"Huyện Đại Từ","districtNameEn":"none","fakeId":171,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32d"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a44d"},"districtName":"Thị xã Phổ Yên","districtNameEn":"none","fakeId":172,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32d"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a44e"},"districtName":"Huyện Phú Bình","districtNameEn":"none","fakeId":173,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32d"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a44f"},"districtName":"Thành phố Lạng Sơn","districtNameEn":"none","fakeId":178,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32e"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a450"},"districtName":"Huyện Tràng Định","districtNameEn":"none","fakeId":180,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32e"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a451"},"districtName":"Huyện Bình Gia","districtNameEn":"none","fakeId":181,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32e"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a452"},"districtName":"Huyện Văn Lãng","districtNameEn":"none","fakeId":182,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32e"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a453"},"districtName":"Huyện Cao Lộc","districtNameEn":"none","fakeId":183,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32e"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a454"},"districtName":"Huyện Văn Quan","districtNameEn":"none","fakeId":184,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32e"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a455"},"districtName":"Huyện Bắc Sơn","districtNameEn":"none","fakeId":185,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32e"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a456"},"districtName":"Huyện Hữu Lũng","districtNameEn":"none","fakeId":186,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32e"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a457"},"districtName":"Huyện Chi Lăng","districtNameEn":"none","fakeId":187,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32e"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a458"},"districtName":"Huyện Lộc Bình","districtNameEn":"none","fakeId":188,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32e"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a459"},"districtName":"Huyện Đình Lập","districtNameEn":"none","fakeId":189,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32e"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a45a"},"districtName":"Thành phố Hạ Long","districtNameEn":"none","fakeId":193,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32f"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a45b"},"districtName":"Thành phố Móng Cái","districtNameEn":"none","fakeId":194,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32f"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a45c"},"districtName":"Thành phố Cẩm Phả","districtNameEn":"none","fakeId":195,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32f"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a45d"},"districtName":"Thành phố Uông Bí","districtNameEn":"none","fakeId":196,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32f"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a45e"},"districtName":"Huyện Bình Liêu","districtNameEn":"none","fakeId":198,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32f"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a45f"},"districtName":"Huyện Tiên Yên","districtNameEn":"none","fakeId":199,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32f"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a460"},"districtName":"Huyện Đầm Hà","districtNameEn":"none","fakeId":200,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32f"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a461"},"districtName":"Huyện Hải Hà","districtNameEn":"none","fakeId":201,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32f"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a462"},"districtName":"Huyện Ba Chẽ","districtNameEn":"none","fakeId":202,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32f"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a463"},"districtName":"Huyện Vân Đồn","districtNameEn":"none","fakeId":203,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32f"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a464"},"districtName":"Thị xã Đông Triều","districtNameEn":"none","fakeId":205,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32f"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a465"},"districtName":"Thị xã Quảng Yên","districtNameEn":"none","fakeId":206,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32f"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a466"},"districtName":"Huyện Cô Tô","districtNameEn":"none","fakeId":207,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a32f"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a467"},"districtName":"Thành phố Bắc Giang","districtNameEn":"Bac Giang city","fakeId":213,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a330"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a468"},"districtName":"Huyện Yên Thế","districtNameEn":"none","fakeId":215,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a330"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a469"},"districtName":"Huyện Tân Yên","districtNameEn":"none","fakeId":216,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a330"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a46a"},"districtName":"Huyện Lạng Giang","districtNameEn":"none","fakeId":217,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a330"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a46b"},"districtName":"Huyện Lục Nam","districtNameEn":"none","fakeId":218,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a330"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a46c"},"districtName":"Huyện Lục Ngạn","districtNameEn":"none","fakeId":219,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a330"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a46d"},"districtName":"Huyện Sơn Động","districtNameEn":"none","fakeId":220,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a330"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a46e"},"districtName":"Huyện Yên Dũng","districtNameEn":"none","fakeId":221,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a330"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a46f"},"districtName":"Huyện Việt Yên","districtNameEn":"none","fakeId":222,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a330"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a470"},"districtName":"Huyện Hiệp Hòa","districtNameEn":"none","fakeId":223,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a330"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a471"},"districtName":"Thành phố Việt Trì","districtNameEn":"none","fakeId":227,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a331"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a472"},"districtName":"Thị xã Phú Thọ","districtNameEn":"none","fakeId":228,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a331"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a473"},"districtName":"Huyện Đoan Hùng","districtNameEn":"none","fakeId":230,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a331"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a474"},"districtName":"Huyện Hạ Hoà","districtNameEn":"none","fakeId":231,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a331"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a475"},"districtName":"Huyện Thanh Ba","districtNameEn":"none","fakeId":232,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a331"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a476"},"districtName":"Huyện Phù Ninh","districtNameEn":"none","fakeId":233,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a331"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a477"},"districtName":"Huyện Yên Lập","districtNameEn":"none","fakeId":234,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a331"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a478"},"districtName":"Huyện Cẩm Khê","districtNameEn":"none","fakeId":235,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a331"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a479"},"districtName":"Huyện Tam Nông","districtNameEn":"none","fakeId":236,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a331"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a47a"},"districtName":"Huyện Lâm Thao","districtNameEn":"none","fakeId":237,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a331"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a47b"},"districtName":"Huyện Thanh Sơn","districtNameEn":"none","fakeId":238,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a331"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a47c"},"districtName":"Huyện Thanh Thuỷ","districtNameEn":"none","fakeId":239,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a331"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a47d"},"districtName":"Huyện Tân Sơn","districtNameEn":"none","fakeId":240,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a331"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a47e"},"districtName":"Thành phố Vĩnh Yên","districtNameEn":"Vĩnh Yên City","fakeId":243,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a332"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a47f"},"districtName":"Thành phố Phúc Yên","districtNameEn":"none","fakeId":244,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a332"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a480"},"districtName":"Huyện Lập Thạch","districtNameEn":"none","fakeId":246,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a332"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a481"},"districtName":"Huyện Tam Dương","districtNameEn":"none","fakeId":247,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a332"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a482"},"districtName":"Huyện Tam Đảo","districtNameEn":"none","fakeId":248,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a332"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a483"},"districtName":"Huyện Bình Xuyên","districtNameEn":"none","fakeId":249,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a332"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a484"},"districtName":"Huyện Yên Lạc","districtNameEn":"none","fakeId":251,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a332"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a485"},"districtName":"Huyện Vĩnh Tường","districtNameEn":"none","fakeId":252,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a332"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a486"},"districtName":"Huyện Sông Lô","districtNameEn":"none","fakeId":253,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a332"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a487"},"districtName":"Thành phố Bắc Ninh","districtNameEn":"Bac Ninh City","fakeId":256,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a333"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a488"},"districtName":"Huyện Yên Phong","districtNameEn":"none","fakeId":258,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a333"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a489"},"districtName":"Huyện Quế Võ","districtNameEn":"none","fakeId":259,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a333"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a48a"},"districtName":"Huyện Tiên Du","districtNameEn":"none","fakeId":260,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a333"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a48b"},"districtName":"Thị xã Từ Sơn","districtNameEn":"none","fakeId":261,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a333"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a48c"},"districtName":"Huyện Thuận Thành","districtNameEn":"none","fakeId":262,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a333"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a48d"},"districtName":"Huyện Gia Bình","districtNameEn":"none","fakeId":263,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a333"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a48e"},"districtName":"Huyện Lương Tài","districtNameEn":"none","fakeId":264,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a333"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a48f"},"districtName":"Thành phố Hải Dương","districtNameEn":"none","fakeId":288,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a334"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a490"},"districtName":"Thành phố Chí Linh","districtNameEn":"none","fakeId":290,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a334"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a491"},"districtName":"Huyện Nam Sách","districtNameEn":"none","fakeId":291,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a334"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a492"},"districtName":"Thị xã Kinh Môn","districtNameEn":"none","fakeId":292,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a334"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a493"},"districtName":"Huyện Kim Thành","districtNameEn":"none","fakeId":293,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a334"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a494"},"districtName":"Huyện Thanh Hà","districtNameEn":"none","fakeId":294,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a334"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a495"},"districtName":"Huyện Cẩm Giàng","districtNameEn":"none","fakeId":295,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a334"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a496"},"districtName":"Huyện Bình Giang","districtNameEn":"none","fakeId":296,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a334"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a497"},"districtName":"Huyện Gia Lộc","districtNameEn":"none","fakeId":297,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a334"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a498"},"districtName":"Huyện Tứ Kỳ","districtNameEn":"none","fakeId":298,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a334"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a499"},"districtName":"Huyện Ninh Giang","districtNameEn":"none","fakeId":299,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a334"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a49a"},"districtName":"Huyện Thanh Miện","districtNameEn":"none","fakeId":300,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a334"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a49b"},"districtName":"Quận Hồng Bàng","districtNameEn":"none","fakeId":303,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a335"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a49c"},"districtName":"Quận Ngô Quyền","districtNameEn":"none","fakeId":304,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a335"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a49d"},"districtName":"Quận Lê Chân","districtNameEn":"none","fakeId":305,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a335"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a49e"},"districtName":"Quận Hải An","districtNameEn":"none","fakeId":306,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a335"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a49f"},"districtName":"Quận Kiến An","districtNameEn":"none","fakeId":307,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a335"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4a0"},"districtName":"Quận Đồ Sơn","districtNameEn":"none","fakeId":308,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a335"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4a1"},"districtName":"Quận Dương Kinh","districtNameEn":"none","fakeId":309,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a335"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4a2"},"districtName":"Huyện Thuỷ Nguyên","districtNameEn":"none","fakeId":311,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a335"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4a3"},"districtName":"Huyện An Dương","districtNameEn":"none","fakeId":312,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a335"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4a4"},"districtName":"Huyện An Lão","districtNameEn":"none","fakeId":313,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a335"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4a5"},"districtName":"Huyện Kiến Thuỵ","districtNameEn":"none","fakeId":314,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a335"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4a6"},"districtName":"Huyện Tiên Lãng","districtNameEn":"none","fakeId":315,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a335"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4a7"},"districtName":"Huyện Vĩnh Bảo","districtNameEn":"none","fakeId":316,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a335"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4a8"},"districtName":"Huyện Cát Hải","districtNameEn":"none","fakeId":317,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a335"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4a9"},"districtName":"Huyện Bạch Long Vĩ","districtNameEn":"none","fakeId":318,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a335"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4aa"},"districtName":"Thành phố Hưng Yên","districtNameEn":"none","fakeId":323,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a336"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4ab"},"districtName":"Huyện Văn Lâm","districtNameEn":"none","fakeId":325,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a336"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4ac"},"districtName":"Huyện Văn Giang","districtNameEn":"none","fakeId":326,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a336"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4ad"},"districtName":"Huyện Yên Mỹ","districtNameEn":"none","fakeId":327,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a336"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4ae"},"districtName":"Thị xã Mỹ Hào","districtNameEn":"none","fakeId":328,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a336"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4af"},"districtName":"Huyện Ân Thi","districtNameEn":"none","fakeId":329,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a336"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4b0"},"districtName":"Huyện Khoái Châu","districtNameEn":"none","fakeId":330,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a336"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4b1"},"districtName":"Huyện Kim Động","districtNameEn":"none","fakeId":331,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a336"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4b2"},"districtName":"Huyện Tiên Lữ","districtNameEn":"none","fakeId":332,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a336"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4b3"},"districtName":"Huyện Phù Cừ","districtNameEn":"none","fakeId":333,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a336"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4b4"},"districtName":"Thành phố Thái Bình","districtNameEn":"none","fakeId":336,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a337"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4b5"},"districtName":"Huyện Quỳnh Phụ","districtNameEn":"none","fakeId":338,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a337"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4b6"},"districtName":"Huyện Hưng Hà","districtNameEn":"none","fakeId":339,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a337"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4b7"},"districtName":"Huyện Đông Hưng","districtNameEn":"none","fakeId":340,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a337"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4b8"},"districtName":"Huyện Thái Thụy","districtNameEn":"none","fakeId":341,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a337"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4b9"},"districtName":"Huyện Tiền Hải","districtNameEn":"none","fakeId":342,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a337"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4ba"},"districtName":"Huyện Kiến Xương","districtNameEn":"none","fakeId":343,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a337"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4bb"},"districtName":"Huyện Vũ Thư","districtNameEn":"none","fakeId":344,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a337"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4bc"},"districtName":"Thành phố Phủ Lý","districtNameEn":"none","fakeId":347,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a338"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4bd"},"districtName":"Thị xã Duy Tiên","districtNameEn":"none","fakeId":349,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a338"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4be"},"districtName":"Huyện Kim Bảng","districtNameEn":"none","fakeId":350,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a338"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4bf"},"districtName":"Huyện Thanh Liêm","districtNameEn":"none","fakeId":351,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a338"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4c0"},"districtName":"Huyện Bình Lục","districtNameEn":"none","fakeId":352,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a338"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4c1"},"districtName":"Huyện Lý Nhân","districtNameEn":"none","fakeId":353,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a338"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4c2"},"districtName":"Thành phố Nam Định","districtNameEn":"none","fakeId":356,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a339"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4c3"},"districtName":"Huyện Mỹ Lộc","districtNameEn":"none","fakeId":358,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a339"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4c4"},"districtName":"Huyện Vụ Bản","districtNameEn":"none","fakeId":359,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a339"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4c5"},"districtName":"Huyện Ý Yên","districtNameEn":"none","fakeId":360,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a339"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4c6"},"districtName":"Huyện Nghĩa Hưng","districtNameEn":"none","fakeId":361,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a339"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4c7"},"districtName":"Huyện Nam Trực","districtNameEn":"none","fakeId":362,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a339"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4c8"},"districtName":"Huyện Trực Ninh","districtNameEn":"none","fakeId":363,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a339"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4c9"},"districtName":"Huyện Xuân Trường","districtNameEn":"none","fakeId":364,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a339"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4ca"},"districtName":"Huyện Giao Thủy","districtNameEn":"none","fakeId":365,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a339"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4cb"},"districtName":"Huyện Hải Hậu","districtNameEn":"none","fakeId":366,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a339"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4cc"},"districtName":"Thành phố Ninh Bình","districtNameEn":"none","fakeId":369,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33a"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4cd"},"districtName":"Thành phố Tam Điệp","districtNameEn":"none","fakeId":370,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33a"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4ce"},"districtName":"Huyện Nho Quan","districtNameEn":"none","fakeId":372,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33a"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4cf"},"districtName":"Huyện Gia Viễn","districtNameEn":"none","fakeId":373,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33a"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4d0"},"districtName":"Huyện Hoa Lư","districtNameEn":"none","fakeId":374,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33a"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4d1"},"districtName":"Huyện Yên Khánh","districtNameEn":"none","fakeId":375,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33a"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4d2"},"districtName":"Huyện Kim Sơn","districtNameEn":"none","fakeId":376,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33a"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4d3"},"districtName":"Huyện Yên Mô","districtNameEn":"none","fakeId":377,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33a"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4d4"},"districtName":"Thành phố Thanh Hóa","districtNameEn":"none","fakeId":380,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4d5"},"districtName":"Thị xã Bỉm Sơn","districtNameEn":"none","fakeId":381,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4d6"},"districtName":"Thành phố Sầm Sơn","districtNameEn":"none","fakeId":382,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4d7"},"districtName":"Huyện Mường Lát","districtNameEn":"none","fakeId":384,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4d8"},"districtName":"Huyện Quan Hóa","districtNameEn":"none","fakeId":385,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4d9"},"districtName":"Huyện Bá Thước","districtNameEn":"none","fakeId":386,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4da"},"districtName":"Huyện Quan Sơn","districtNameEn":"none","fakeId":387,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4db"},"districtName":"Huyện Lang Chánh","districtNameEn":"none","fakeId":388,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4dc"},"districtName":"Huyện Ngọc Lặc","districtNameEn":"none","fakeId":389,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4dd"},"districtName":"Huyện Cẩm Thủy","districtNameEn":"none","fakeId":390,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4de"},"districtName":"Huyện Thạch Thành","districtNameEn":"none","fakeId":391,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4df"},"districtName":"Huyện Hà Trung","districtNameEn":"none","fakeId":392,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4e0"},"districtName":"Huyện Vĩnh Lộc","districtNameEn":"none","fakeId":393,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4e1"},"districtName":"Huyện Yên Định","districtNameEn":"none","fakeId":394,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4e2"},"districtName":"Huyện Thọ Xuân","districtNameEn":"none","fakeId":395,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4e3"},"districtName":"Huyện Thường Xuân","districtNameEn":"none","fakeId":396,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4e4"},"districtName":"Huyện Triệu Sơn","districtNameEn":"none","fakeId":397,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4e5"},"districtName":"Huyện Thiệu Hóa","districtNameEn":"none","fakeId":398,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4e6"},"districtName":"Huyện Hoằng Hóa","districtNameEn":"none","fakeId":399,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4e7"},"districtName":"Huyện Hậu Lộc","districtNameEn":"none","fakeId":400,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4e8"},"districtName":"Huyện Nga Sơn","districtNameEn":"none","fakeId":401,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4e9"},"districtName":"Huyện Như Xuân","districtNameEn":"none","fakeId":402,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4ea"},"districtName":"Huyện Như Thanh","districtNameEn":"none","fakeId":403,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4eb"},"districtName":"Huyện Nông Cống","districtNameEn":"none","fakeId":404,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4ec"},"districtName":"Huyện Đông Sơn","districtNameEn":"none","fakeId":405,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4ed"},"districtName":"Huyện Quảng Xương","districtNameEn":"none","fakeId":406,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4ee"},"districtName":"Thị xã Nghi Sơn","districtNameEn":"none","fakeId":407,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33b"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4ef"},"districtName":"Thành phố Vinh","districtNameEn":"none","fakeId":412,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33c"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4f0"},"districtName":"Thị xã Cửa Lò","districtNameEn":"none","fakeId":413,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33c"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4f1"},"districtName":"Thị xã Thái Hoà","districtNameEn":"none","fakeId":414,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33c"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4f2"},"districtName":"Huyện Quế Phong","districtNameEn":"none","fakeId":415,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33c"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4f3"},"districtName":"Huyện Quỳ Châu","districtNameEn":"none","fakeId":416,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33c"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4f4"},"districtName":"Huyện Kỳ Sơn","districtNameEn":"none","fakeId":417,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33c"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4f5"},"districtName":"Huyện Tương Dương","districtNameEn":"none","fakeId":418,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33c"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4f6"},"districtName":"Huyện Nghĩa Đàn","districtNameEn":"none","fakeId":419,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33c"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4f7"},"districtName":"Huyện Quỳ Hợp","districtNameEn":"none","fakeId":420,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33c"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4f8"},"districtName":"Huyện Quỳnh Lưu","districtNameEn":"none","fakeId":421,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33c"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4f9"},"districtName":"Huyện Con Cuông","districtNameEn":"none","fakeId":422,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33c"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4fa"},"districtName":"Huyện Tân Kỳ","districtNameEn":"none","fakeId":423,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33c"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4fb"},"districtName":"Huyện Anh Sơn","districtNameEn":"none","fakeId":424,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33c"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4fc"},"districtName":"Huyện Diễn Châu","districtNameEn":"none","fakeId":425,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33c"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4fd"},"districtName":"Huyện Yên Thành","districtNameEn":"none","fakeId":426,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33c"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4fe"},"districtName":"Huyện Đô Lương","districtNameEn":"none","fakeId":427,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33c"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a4ff"},"districtName":"Huyện Thanh Chương","districtNameEn":"none","fakeId":428,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33c"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a500"},"districtName":"Huyện Nghi Lộc","districtNameEn":"none","fakeId":429,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33c"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a501"},"districtName":"Huyện Nam Đàn","districtNameEn":"none","fakeId":430,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33c"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a502"},"districtName":"Huyện Hưng Nguyên","districtNameEn":"none","fakeId":431,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33c"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a503"},"districtName":"Thị xã Hoàng Mai","districtNameEn":"none","fakeId":432,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33c"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a504"},"districtName":"Thành phố Hà Tĩnh","districtNameEn":"none","fakeId":436,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33d"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a505"},"districtName":"Thị xã Hồng Lĩnh","districtNameEn":"none","fakeId":437,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33d"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a506"},"districtName":"Huyện Hương Sơn","districtNameEn":"none","fakeId":439,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33d"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a507"},"districtName":"Huyện Đức Thọ","districtNameEn":"none","fakeId":440,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33d"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a508"},"districtName":"Huyện Vũ Quang","districtNameEn":"none","fakeId":441,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33d"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a509"},"districtName":"Huyện Nghi Xuân","districtNameEn":"none","fakeId":442,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33d"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a50a"},"districtName":"Huyện Can Lộc","districtNameEn":"none","fakeId":443,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33d"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a50b"},"districtName":"Huyện Hương Khê","districtNameEn":"none","fakeId":444,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33d"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a50c"},"districtName":"Huyện Thạch Hà","districtNameEn":"none","fakeId":445,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33d"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a50d"},"districtName":"Huyện Cẩm Xuyên","districtNameEn":"none","fakeId":446,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33d"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a50e"},"districtName":"Huyện Kỳ Anh","districtNameEn":"none","fakeId":447,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33d"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a50f"},"districtName":"Huyện Lộc Hà","districtNameEn":"none","fakeId":448,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33d"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a510"},"districtName":"Thị xã Kỳ Anh","districtNameEn":"none","fakeId":449,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33d"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a511"},"districtName":"Thành Phố Đồng Hới","districtNameEn":"Dong Hoi City","fakeId":450,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33e"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a512"},"districtName":"Huyện Minh Hóa","districtNameEn":"none","fakeId":452,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33e"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a513"},"districtName":"Huyện Tuyên Hóa","districtNameEn":"none","fakeId":453,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33e"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a514"},"districtName":"Huyện Quảng Trạch","districtNameEn":"none","fakeId":454,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33e"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a515"},"districtName":"Huyện Bố Trạch","districtNameEn":"none","fakeId":455,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33e"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a516"},"districtName":"Huyện Quảng Ninh","districtNameEn":"none","fakeId":456,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33e"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a517"},"districtName":"Huyện Lệ Thủy","districtNameEn":"none","fakeId":457,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33e"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a518"},"districtName":"Thị xã Ba Đồn","districtNameEn":"none","fakeId":458,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33e"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a519"},"districtName":"Thành phố Đông Hà","districtNameEn":"none","fakeId":461,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33f"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a51a"},"districtName":"Thị xã Quảng Trị","districtNameEn":"none","fakeId":462,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33f"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a51b"},"districtName":"Huyện Vĩnh Linh","districtNameEn":"none","fakeId":464,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33f"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a51c"},"districtName":"Huyện Hướng Hóa","districtNameEn":"none","fakeId":465,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33f"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a51d"},"districtName":"Huyện Gio Linh","districtNameEn":"none","fakeId":466,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33f"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a51e"},"districtName":"Huyện Đa Krông","districtNameEn":"none","fakeId":467,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33f"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a51f"},"districtName":"Huyện Cam Lộ","districtNameEn":"none","fakeId":468,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33f"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a520"},"districtName":"Huyện Triệu Phong","districtNameEn":"none","fakeId":469,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33f"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a521"},"districtName":"Huyện Hải Lăng","districtNameEn":"none","fakeId":470,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33f"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a522"},"districtName":"Huyện Cồn Cỏ","districtNameEn":"none","fakeId":471,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a33f"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a523"},"districtName":"Thành phố Huế","districtNameEn":"none","fakeId":474,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a340"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a524"},"districtName":"Huyện Phong Điền","districtNameEn":"none","fakeId":476,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a340"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a525"},"districtName":"Huyện Quảng Điền","districtNameEn":"none","fakeId":477,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a340"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a526"},"districtName":"Huyện Phú Vang","districtNameEn":"none","fakeId":478,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a340"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a527"},"districtName":"Thị xã Hương Thủy","districtNameEn":"none","fakeId":479,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a340"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a528"},"districtName":"Thị xã Hương Trà","districtNameEn":"none","fakeId":480,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a340"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a529"},"districtName":"Huyện A Lưới","districtNameEn":"none","fakeId":481,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a340"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a52a"},"districtName":"Huyện Phú Lộc","districtNameEn":"none","fakeId":482,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a340"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a52b"},"districtName":"Huyện Nam Đông","districtNameEn":"none","fakeId":483,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a340"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a52c"},"districtName":"Quận Liên Chiểu","districtNameEn":"none","fakeId":490,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a341"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a52d"},"districtName":"Quận Thanh Khê","districtNameEn":"none","fakeId":491,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a341"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a52e"},"districtName":"Quận Hải Châu","districtNameEn":"none","fakeId":492,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a341"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a52f"},"districtName":"Quận Sơn Trà","districtNameEn":"none","fakeId":493,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a341"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a530"},"districtName":"Quận Ngũ Hành Sơn","districtNameEn":"none","fakeId":494,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a341"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a531"},"districtName":"Quận Cẩm Lệ","districtNameEn":"none","fakeId":495,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a341"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a532"},"districtName":"Huyện Hòa Vang","districtNameEn":"none","fakeId":497,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a341"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a533"},"districtName":"Huyện Hoàng Sa","districtNameEn":"none","fakeId":498,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a341"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a534"},"districtName":"Thành phố Tam Kỳ","districtNameEn":"none","fakeId":502,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a342"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a535"},"districtName":"Thành phố Hội An","districtNameEn":"none","fakeId":503,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a342"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a536"},"districtName":"Huyện Tây Giang","districtNameEn":"none","fakeId":504,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a342"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a537"},"districtName":"Huyện Đông Giang","districtNameEn":"none","fakeId":505,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a342"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a538"},"districtName":"Huyện Đại Lộc","districtNameEn":"none","fakeId":506,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a342"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a539"},"districtName":"Thị xã Điện Bàn","districtNameEn":"none","fakeId":507,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a342"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a53a"},"districtName":"Huyện Duy Xuyên","districtNameEn":"none","fakeId":508,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a342"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a53b"},"districtName":"Huyện Quế Sơn","districtNameEn":"none","fakeId":509,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a342"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a53c"},"districtName":"Huyện Nam Giang","districtNameEn":"none","fakeId":510,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a342"},"__v":0}
+{"_id":{"$oid":"60b7a50531c6ba3de5e7a53d"},"districtName":"Huyện Phước Sơn","districtNameEn":"none","fakeId":511,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a342"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a53e"},"districtName":"Huyện Hiệp Đức","districtNameEn":"none","fakeId":512,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a342"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a53f"},"districtName":"Huyện Thăng Bình","districtNameEn":"none","fakeId":513,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a342"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a540"},"districtName":"Huyện Tiên Phước","districtNameEn":"none","fakeId":514,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a342"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a541"},"districtName":"Huyện Bắc Trà My","districtNameEn":"none","fakeId":515,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a342"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a542"},"districtName":"Huyện Nam Trà My","districtNameEn":"none","fakeId":516,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a342"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a543"},"districtName":"Huyện Núi Thành","districtNameEn":"none","fakeId":517,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a342"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a544"},"districtName":"Huyện Phú Ninh","districtNameEn":"Phú Ninh District","fakeId":518,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a342"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a545"},"districtName":"Huyện Nông Sơn","districtNameEn":"none","fakeId":519,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a342"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a546"},"districtName":"Thành phố Quảng Ngãi","districtNameEn":"none","fakeId":522,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a343"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a547"},"districtName":"Huyện Bình Sơn","districtNameEn":"none","fakeId":524,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a343"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a548"},"districtName":"Huyện Trà Bồng","districtNameEn":"none","fakeId":525,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a343"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a549"},"districtName":"Huyện Sơn Tịnh","districtNameEn":"none","fakeId":527,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a343"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a54a"},"districtName":"Huyện Tư Nghĩa","districtNameEn":"none","fakeId":528,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a343"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a54b"},"districtName":"Huyện Sơn Hà","districtNameEn":"none","fakeId":529,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a343"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a54c"},"districtName":"Huyện Sơn Tây","districtNameEn":"none","fakeId":530,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a343"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a54d"},"districtName":"Huyện Minh Long","districtNameEn":"none","fakeId":531,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a343"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a54e"},"districtName":"Huyện Nghĩa Hành","districtNameEn":"none","fakeId":532,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a343"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a54f"},"districtName":"Huyện Mộ Đức","districtNameEn":"none","fakeId":533,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a343"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a550"},"districtName":"Thị xã Đức Phổ","districtNameEn":"none","fakeId":534,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a343"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a551"},"districtName":"Huyện Ba Tơ","districtNameEn":"none","fakeId":535,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a343"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a552"},"districtName":"Huyện Lý Sơn","districtNameEn":"none","fakeId":536,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a343"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a553"},"districtName":"Thành phố Quy Nhơn","districtNameEn":"none","fakeId":540,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a344"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a554"},"districtName":"Huyện An Lão","districtNameEn":"none","fakeId":542,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a344"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a555"},"districtName":"Thị xã Hoài Nhơn","districtNameEn":"none","fakeId":543,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a344"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a556"},"districtName":"Huyện Hoài Ân","districtNameEn":"none","fakeId":544,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a344"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a557"},"districtName":"Huyện Phù Mỹ","districtNameEn":"none","fakeId":545,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a344"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a558"},"districtName":"Huyện Vĩnh Thạnh","districtNameEn":"none","fakeId":546,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a344"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a559"},"districtName":"Huyện Tây Sơn","districtNameEn":"none","fakeId":547,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a344"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a55a"},"districtName":"Huyện Phù Cát","districtNameEn":"none","fakeId":548,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a344"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a55b"},"districtName":"Thị xã An Nhơn","districtNameEn":"none","fakeId":549,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a344"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a55c"},"districtName":"Huyện Tuy Phước","districtNameEn":"none","fakeId":550,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a344"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a55d"},"districtName":"Huyện Vân Canh","districtNameEn":"none","fakeId":551,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a344"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a55e"},"districtName":"Thành phố Tuy Hoà","districtNameEn":"Tuy Hoa City","fakeId":555,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a345"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a55f"},"districtName":"Thị xã Sông Cầu","districtNameEn":"none","fakeId":557,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a345"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a560"},"districtName":"Huyện Đồng Xuân","districtNameEn":"none","fakeId":558,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a345"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a561"},"districtName":"Huyện Tuy An","districtNameEn":"none","fakeId":559,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a345"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a562"},"districtName":"Huyện Sơn Hòa","districtNameEn":"none","fakeId":560,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a345"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a563"},"districtName":"Huyện Sông Hinh","districtNameEn":"none","fakeId":561,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a345"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a564"},"districtName":"Huyện Tây Hoà","districtNameEn":"Tay Hoa commune","fakeId":562,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a345"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a565"},"districtName":"Huyện Phú Hoà","districtNameEn":"none","fakeId":563,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a345"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a566"},"districtName":"Thị xã Đông Hòa","districtNameEn":"none","fakeId":564,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a345"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a567"},"districtName":"Thành phố Nha Trang","districtNameEn":"none","fakeId":568,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a346"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a568"},"districtName":"Thành phố Cam Ranh","districtNameEn":"none","fakeId":569,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a346"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a569"},"districtName":"Huyện Cam Lâm","districtNameEn":"none","fakeId":570,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a346"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a56a"},"districtName":"Huyện Vạn Ninh","districtNameEn":"none","fakeId":571,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a346"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a56b"},"districtName":"Thị xã Ninh Hòa","districtNameEn":"none","fakeId":572,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a346"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a56c"},"districtName":"Huyện Khánh Vĩnh","districtNameEn":"none","fakeId":573,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a346"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a56d"},"districtName":"Huyện Diên Khánh","districtNameEn":"none","fakeId":574,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a346"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a56e"},"districtName":"Huyện Khánh Sơn","districtNameEn":"none","fakeId":575,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a346"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a56f"},"districtName":"Huyện Trường Sa","districtNameEn":"none","fakeId":576,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a346"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a570"},"districtName":"Thành phố Phan Rang-Tháp Chàm","districtNameEn":"none","fakeId":582,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a347"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a571"},"districtName":"Huyện Bác Ái","districtNameEn":"none","fakeId":584,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a347"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a572"},"districtName":"Huyện Ninh Sơn","districtNameEn":"none","fakeId":585,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a347"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a573"},"districtName":"Huyện Ninh Hải","districtNameEn":"none","fakeId":586,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a347"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a574"},"districtName":"Huyện Ninh Phước","districtNameEn":"none","fakeId":587,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a347"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a575"},"districtName":"Huyện Thuận Bắc","districtNameEn":"Thuan Bac province","fakeId":588,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a347"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a576"},"districtName":"Huyện Thuận Nam","districtNameEn":"none","fakeId":589,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a347"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a577"},"districtName":"Thành phố Phan Thiết","districtNameEn":"none","fakeId":593,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a348"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a578"},"districtName":"Thị xã La Gi","districtNameEn":"none","fakeId":594,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a348"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a579"},"districtName":"Huyện Tuy Phong","districtNameEn":"none","fakeId":595,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a348"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a57a"},"districtName":"Huyện Bắc Bình","districtNameEn":"none","fakeId":596,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a348"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a57b"},"districtName":"Huyện Hàm Thuận Bắc","districtNameEn":"none","fakeId":597,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a348"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a57c"},"districtName":"Huyện Hàm Thuận Nam","districtNameEn":"none","fakeId":598,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a348"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a57d"},"districtName":"Huyện Tánh Linh","districtNameEn":"none","fakeId":599,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a348"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a57e"},"districtName":"Huyện Đức Linh","districtNameEn":"none","fakeId":600,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a348"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a57f"},"districtName":"Huyện Hàm Tân","districtNameEn":"none","fakeId":601,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a348"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a580"},"districtName":"Huyện Phú Quí","districtNameEn":"none","fakeId":602,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a348"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a581"},"districtName":"Thành phố Kon Tum","districtNameEn":"none","fakeId":608,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a349"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a582"},"districtName":"Huyện Đắk Glei","districtNameEn":"none","fakeId":610,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a349"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a583"},"districtName":"Huyện Ngọc Hồi","districtNameEn":"none","fakeId":611,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a349"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a584"},"districtName":"Huyện Đắk Tô","districtNameEn":"none","fakeId":612,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a349"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a585"},"districtName":"Huyện Kon Plông","districtNameEn":"none","fakeId":613,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a349"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a586"},"districtName":"Huyện Kon Rẫy","districtNameEn":"none","fakeId":614,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a349"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a587"},"districtName":"Huyện Đắk Hà","districtNameEn":"none","fakeId":615,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a349"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a588"},"districtName":"Huyện Sa Thầy","districtNameEn":"none","fakeId":616,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a349"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a589"},"districtName":"Huyện Tu Mơ Rông","districtNameEn":"Tu Mo Rong district","fakeId":617,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a349"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a58a"},"districtName":"Huyện Ia H' Drai","districtNameEn":"none","fakeId":618,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a349"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a58b"},"districtName":"Thành phố Pleiku","districtNameEn":"none","fakeId":622,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34a"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a58c"},"districtName":"Thị xã An Khê","districtNameEn":"none","fakeId":623,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34a"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a58d"},"districtName":"Thị xã Ayun Pa","districtNameEn":"none","fakeId":624,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34a"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a58e"},"districtName":"Huyện KBang","districtNameEn":"none","fakeId":625,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34a"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a58f"},"districtName":"Huyện Đăk Đoa","districtNameEn":"none","fakeId":626,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34a"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a590"},"districtName":"Huyện Chư Păh","districtNameEn":"none","fakeId":627,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34a"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a591"},"districtName":"Huyện Ia Grai","districtNameEn":"none","fakeId":628,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34a"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a592"},"districtName":"Huyện Mang Yang","districtNameEn":"none","fakeId":629,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34a"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a593"},"districtName":"Huyện Kông Chro","districtNameEn":"none","fakeId":630,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34a"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a594"},"districtName":"Huyện Đức Cơ","districtNameEn":"none","fakeId":631,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34a"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a595"},"districtName":"Huyện Chư Prông","districtNameEn":"none","fakeId":632,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34a"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a596"},"districtName":"Huyện Chư Sê","districtNameEn":"none","fakeId":633,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34a"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a597"},"districtName":"Huyện Đăk Pơ","districtNameEn":"none","fakeId":634,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34a"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a598"},"districtName":"Huyện Ia Pa","districtNameEn":"none","fakeId":635,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34a"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a599"},"districtName":"Huyện Krông Pa","districtNameEn":"none","fakeId":637,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34a"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a59a"},"districtName":"Huyện Phú Thiện","districtNameEn":"none","fakeId":638,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34a"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a59b"},"districtName":"Huyện Chư Pưh","districtNameEn":"none","fakeId":639,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34a"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a59c"},"districtName":"Thành phố Buôn Ma Thuột","districtNameEn":"none","fakeId":643,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34b"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a59d"},"districtName":"Thị Xã Buôn Hồ","districtNameEn":"none","fakeId":644,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34b"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a59e"},"districtName":"Huyện Ea H'leo","districtNameEn":"none","fakeId":645,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34b"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a59f"},"districtName":"Huyện Ea Súp","districtNameEn":"none","fakeId":646,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34b"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5a0"},"districtName":"Huyện Buôn Đôn","districtNameEn":"none","fakeId":647,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34b"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5a1"},"districtName":"Huyện Cư M'gar","districtNameEn":"none","fakeId":648,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34b"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5a2"},"districtName":"Huyện Krông Búk","districtNameEn":"none","fakeId":649,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34b"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5a3"},"districtName":"Huyện Krông Năng","districtNameEn":"none","fakeId":650,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34b"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5a4"},"districtName":"Huyện Ea Kar","districtNameEn":"none","fakeId":651,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34b"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5a5"},"districtName":"Huyện M'Đrắk","districtNameEn":"none","fakeId":652,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34b"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5a6"},"districtName":"Huyện Krông Bông","districtNameEn":"none","fakeId":653,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34b"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5a7"},"districtName":"Huyện Krông Pắc","districtNameEn":"none","fakeId":654,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34b"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5a8"},"districtName":"Huyện Krông A Na","districtNameEn":"none","fakeId":655,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34b"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5a9"},"districtName":"Huyện Lắk","districtNameEn":"none","fakeId":656,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34b"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5aa"},"districtName":"Huyện Cư Kuin","districtNameEn":"none","fakeId":657,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34b"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5ab"},"districtName":"Thành phố Gia Nghĩa","districtNameEn":"none","fakeId":660,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34c"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5ac"},"districtName":"Huyện Đăk Glong","districtNameEn":"Dak Glong province","fakeId":661,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34c"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5ad"},"districtName":"Huyện Cư Jút","districtNameEn":"none","fakeId":662,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34c"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5ae"},"districtName":"Huyện Đắk Mil","districtNameEn":"none","fakeId":663,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34c"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5af"},"districtName":"Huyện Krông Nô","districtNameEn":"none","fakeId":664,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34c"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5b0"},"districtName":"Huyện Đắk Song","districtNameEn":"none","fakeId":665,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34c"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5b1"},"districtName":"Huyện Đắk R'Lấp","districtNameEn":"none","fakeId":666,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34c"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5b2"},"districtName":"Huyện Tuy Đức","districtNameEn":"none","fakeId":667,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34c"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5b3"},"districtName":"Thành phố Đà Lạt","districtNameEn":"none","fakeId":672,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34d"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5b4"},"districtName":"Thành phố Bảo Lộc","districtNameEn":"none","fakeId":673,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34d"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5b5"},"districtName":"Huyện Đam Rông","districtNameEn":"Dam Rong Province","fakeId":674,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34d"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5b6"},"districtName":"Huyện Lạc Dương","districtNameEn":"none","fakeId":675,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34d"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5b7"},"districtName":"Huyện Lâm Hà","districtNameEn":"none","fakeId":676,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34d"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5b8"},"districtName":"Huyện Đơn Dương","districtNameEn":"none","fakeId":677,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34d"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5b9"},"districtName":"Huyện Đức Trọng","districtNameEn":"none","fakeId":678,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34d"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5ba"},"districtName":"Huyện Di Linh","districtNameEn":"none","fakeId":679,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34d"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5bb"},"districtName":"Huyện Bảo Lâm","districtNameEn":"none","fakeId":680,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34d"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5bc"},"districtName":"Huyện Đạ Huoai","districtNameEn":"none","fakeId":681,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34d"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5bd"},"districtName":"Huyện Đạ Tẻh","districtNameEn":"none","fakeId":682,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34d"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5be"},"districtName":"Huyện Cát Tiên","districtNameEn":"none","fakeId":683,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34d"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5bf"},"districtName":"Thị xã Phước Long","districtNameEn":"none","fakeId":688,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34e"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5c0"},"districtName":"Thành phố Đồng Xoài","districtNameEn":"none","fakeId":689,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34e"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5c1"},"districtName":"Thị xã Bình Long","districtNameEn":"none","fakeId":690,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34e"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5c2"},"districtName":"Huyện Bù Gia Mập","districtNameEn":"none","fakeId":691,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34e"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5c3"},"districtName":"Huyện Lộc Ninh","districtNameEn":"none","fakeId":692,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34e"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5c4"},"districtName":"Huyện Bù Đốp","districtNameEn":"none","fakeId":693,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34e"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5c5"},"districtName":"Huyện Hớn Quản","districtNameEn":"none","fakeId":694,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34e"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5c6"},"districtName":"Huyện Đồng Phú","districtNameEn":"none","fakeId":695,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34e"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5c7"},"districtName":"Huyện Bù Đăng","districtNameEn":"none","fakeId":696,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34e"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5c8"},"districtName":"Huyện Chơn Thành","districtNameEn":"none","fakeId":697,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34e"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5c9"},"districtName":"Huyện Phú Riềng","districtNameEn":"none","fakeId":698,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34e"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5ca"},"districtName":"Thành phố Tây Ninh","districtNameEn":"none","fakeId":703,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34f"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5cb"},"districtName":"Huyện Tân Biên","districtNameEn":"none","fakeId":705,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34f"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5cc"},"districtName":"Huyện Tân Châu","districtNameEn":"none","fakeId":706,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34f"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5cd"},"districtName":"Huyện Dương Minh Châu","districtNameEn":"none","fakeId":707,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34f"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5ce"},"districtName":"Huyện Châu Thành","districtNameEn":"none","fakeId":708,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34f"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5cf"},"districtName":"Thị xã Hòa Thành","districtNameEn":"none","fakeId":709,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34f"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5d0"},"districtName":"Huyện Gò Dầu","districtNameEn":"none","fakeId":710,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34f"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5d1"},"districtName":"Huyện Bến Cầu","districtNameEn":"none","fakeId":711,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34f"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5d2"},"districtName":"Thị xã Trảng Bàng","districtNameEn":"none","fakeId":712,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a34f"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5d3"},"districtName":"Thành phố Thủ Dầu Một","districtNameEn":"none","fakeId":718,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a350"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5d4"},"districtName":"Huyện Bàu Bàng","districtNameEn":"none","fakeId":719,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a350"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5d5"},"districtName":"Huyện Dầu Tiếng","districtNameEn":"none","fakeId":720,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a350"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5d6"},"districtName":"Thị xã Bến Cát","districtNameEn":"none","fakeId":721,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a350"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5d7"},"districtName":"Huyện Phú Giáo","districtNameEn":"none","fakeId":722,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a350"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5d8"},"districtName":"Thị xã Tân Uyên","districtNameEn":"none","fakeId":723,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a350"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5d9"},"districtName":"Thành phố Dĩ An","districtNameEn":"none","fakeId":724,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a350"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5da"},"districtName":"Thành phố Thuận An","districtNameEn":"none","fakeId":725,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a350"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5db"},"districtName":"Huyện Bắc Tân Uyên","districtNameEn":"none","fakeId":726,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a350"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5dc"},"districtName":"Thành phố Biên Hòa","districtNameEn":"none","fakeId":731,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a351"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5dd"},"districtName":"Thành phố Long Khánh","districtNameEn":"none","fakeId":732,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a351"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5de"},"districtName":"Huyện Tân Phú","districtNameEn":"none","fakeId":734,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a351"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5df"},"districtName":"Huyện Vĩnh Cửu","districtNameEn":"none","fakeId":735,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a351"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5e0"},"districtName":"Huyện Định Quán","districtNameEn":"none","fakeId":736,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a351"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5e1"},"districtName":"Huyện Trảng Bom","districtNameEn":"none","fakeId":737,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a351"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5e2"},"districtName":"Huyện Thống Nhất","districtNameEn":"none","fakeId":738,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a351"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5e3"},"districtName":"Huyện Cẩm Mỹ","districtNameEn":"none","fakeId":739,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a351"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5e4"},"districtName":"Huyện Long Thành","districtNameEn":"none","fakeId":740,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a351"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5e5"},"districtName":"Huyện Xuân Lộc","districtNameEn":"none","fakeId":741,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a351"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5e6"},"districtName":"Huyện Nhơn Trạch","districtNameEn":"none","fakeId":742,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a351"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5e7"},"districtName":"Thành phố Vũng Tàu","districtNameEn":"none","fakeId":747,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a352"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5e8"},"districtName":"Thành phố Bà Rịa","districtNameEn":"none","fakeId":748,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a352"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5e9"},"districtName":"Huyện Châu Đức","districtNameEn":"none","fakeId":750,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a352"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5ea"},"districtName":"Huyện Xuyên Mộc","districtNameEn":"none","fakeId":751,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a352"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5eb"},"districtName":"Huyện Long Điền","districtNameEn":"none","fakeId":752,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a352"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5ec"},"districtName":"Huyện Đất Đỏ","districtNameEn":"none","fakeId":753,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a352"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5ed"},"districtName":"Thị xã Phú Mỹ","districtNameEn":"none","fakeId":754,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a352"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5ee"},"districtName":"Huyện Côn Đảo","districtNameEn":"none","fakeId":755,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a352"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5ef"},"districtName":"Quận 1","districtNameEn":"none","fakeId":760,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a353"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5f0"},"districtName":"Quận 12","districtNameEn":"none","fakeId":761,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a353"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5f1"},"districtName":"Quận Gò Vấp","districtNameEn":"none","fakeId":764,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a353"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5f2"},"districtName":"Quận Bình Thạnh","districtNameEn":"none","fakeId":765,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a353"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5f3"},"districtName":"Quận Tân Bình","districtNameEn":"none","fakeId":766,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a353"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5f4"},"districtName":"Quận Tân Phú","districtNameEn":"none","fakeId":767,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a353"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5f5"},"districtName":"Quận Phú Nhuận","districtNameEn":"none","fakeId":768,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a353"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5f6"},"districtName":"Thành phố Thủ Đức","districtNameEn":"none","fakeId":769,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a353"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5f7"},"districtName":"Quận 3","districtNameEn":"none","fakeId":770,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a353"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5f8"},"districtName":"Quận 10","districtNameEn":"none","fakeId":771,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a353"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5f9"},"districtName":"Quận 11","districtNameEn":"none","fakeId":772,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a353"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5fa"},"districtName":"Quận 4","districtNameEn":"none","fakeId":773,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a353"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5fb"},"districtName":"Quận 5","districtNameEn":"none","fakeId":774,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a353"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5fc"},"districtName":"Quận 6","districtNameEn":"none","fakeId":775,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a353"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5fd"},"districtName":"Quận 8","districtNameEn":"none","fakeId":776,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a353"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5fe"},"districtName":"Quận Bình Tân","districtNameEn":"none","fakeId":777,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a353"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a5ff"},"districtName":"Quận 7","districtNameEn":"none","fakeId":778,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a353"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a600"},"districtName":"Huyện Củ Chi","districtNameEn":"none","fakeId":783,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a353"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a601"},"districtName":"Huyện Hóc Môn","districtNameEn":"none","fakeId":784,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a353"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a602"},"districtName":"Huyện Bình Chánh","districtNameEn":"none","fakeId":785,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a353"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a603"},"districtName":"Huyện Nhà Bè","districtNameEn":"none","fakeId":786,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a353"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a604"},"districtName":"Huyện Cần Giờ","districtNameEn":"none","fakeId":787,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a353"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a605"},"districtName":"Thành phố Tân An","districtNameEn":"none","fakeId":794,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a354"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a606"},"districtName":"Thị xã Kiến Tường","districtNameEn":"none","fakeId":795,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a354"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a607"},"districtName":"Huyện Tân Hưng","districtNameEn":"none","fakeId":796,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a354"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a608"},"districtName":"Huyện Vĩnh Hưng","districtNameEn":"none","fakeId":797,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a354"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a609"},"districtName":"Huyện Mộc Hóa","districtNameEn":"none","fakeId":798,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a354"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a60a"},"districtName":"Huyện Tân Thạnh","districtNameEn":"none","fakeId":799,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a354"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a60b"},"districtName":"Huyện Thạnh Hóa","districtNameEn":"none","fakeId":800,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a354"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a60c"},"districtName":"Huyện Đức Huệ","districtNameEn":"none","fakeId":801,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a354"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a60d"},"districtName":"Huyện Đức Hòa","districtNameEn":"none","fakeId":802,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a354"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a60e"},"districtName":"Huyện Bến Lức","districtNameEn":"none","fakeId":803,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a354"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a60f"},"districtName":"Huyện Thủ Thừa","districtNameEn":"none","fakeId":804,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a354"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a610"},"districtName":"Huyện Tân Trụ","districtNameEn":"none","fakeId":805,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a354"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a611"},"districtName":"Huyện Cần Đước","districtNameEn":"none","fakeId":806,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a354"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a612"},"districtName":"Huyện Cần Giuộc","districtNameEn":"none","fakeId":807,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a354"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a613"},"districtName":"Huyện Châu Thành","districtNameEn":"none","fakeId":808,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a354"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a614"},"districtName":"Thành phố Mỹ Tho","districtNameEn":"none","fakeId":815,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a355"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a615"},"districtName":"Thị xã Gò Công","districtNameEn":"none","fakeId":816,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a355"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a616"},"districtName":"Thị xã Cai Lậy","districtNameEn":"none","fakeId":817,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a355"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a617"},"districtName":"Huyện Tân Phước","districtNameEn":"none","fakeId":818,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a355"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a618"},"districtName":"Huyện Cái Bè","districtNameEn":"none","fakeId":819,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a355"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a619"},"districtName":"Huyện Cai Lậy","districtNameEn":"none","fakeId":820,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a355"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a61a"},"districtName":"Huyện Châu Thành","districtNameEn":"none","fakeId":821,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a355"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a61b"},"districtName":"Huyện Chợ Gạo","districtNameEn":"none","fakeId":822,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a355"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a61c"},"districtName":"Huyện Gò Công Tây","districtNameEn":"none","fakeId":823,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a355"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a61d"},"districtName":"Huyện Gò Công Đông","districtNameEn":"none","fakeId":824,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a355"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a61e"},"districtName":"Huyện Tân Phú Đông","districtNameEn":"none","fakeId":825,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a355"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a61f"},"districtName":"Thành phố Bến Tre","districtNameEn":"none","fakeId":829,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a356"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a620"},"districtName":"Huyện Châu Thành","districtNameEn":"none","fakeId":831,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a356"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a621"},"districtName":"Huyện Chợ Lách","districtNameEn":"none","fakeId":832,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a356"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a622"},"districtName":"Huyện Mỏ Cày Nam","districtNameEn":"none","fakeId":833,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a356"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a623"},"districtName":"Huyện Giồng Trôm","districtNameEn":"none","fakeId":834,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a356"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a624"},"districtName":"Huyện Bình Đại","districtNameEn":"none","fakeId":835,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a356"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a625"},"districtName":"Huyện Ba Tri","districtNameEn":"none","fakeId":836,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a356"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a626"},"districtName":"Huyện Thạnh Phú","districtNameEn":"none","fakeId":837,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a356"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a627"},"districtName":"Huyện Mỏ Cày Bắc","districtNameEn":"none","fakeId":838,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a356"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a628"},"districtName":"Thành phố Trà Vinh","districtNameEn":"none","fakeId":842,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a357"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a629"},"districtName":"Huyện Càng Long","districtNameEn":"none","fakeId":844,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a357"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a62a"},"districtName":"Huyện Cầu Kè","districtNameEn":"none","fakeId":845,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a357"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a62b"},"districtName":"Huyện Tiểu Cần","districtNameEn":"none","fakeId":846,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a357"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a62c"},"districtName":"Huyện Châu Thành","districtNameEn":"none","fakeId":847,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a357"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a62d"},"districtName":"Huyện Cầu Ngang","districtNameEn":"none","fakeId":848,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a357"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a62e"},"districtName":"Huyện Trà Cú","districtNameEn":"none","fakeId":849,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a357"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a62f"},"districtName":"Huyện Duyên Hải","districtNameEn":"none","fakeId":850,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a357"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a630"},"districtName":"Thị xã Duyên Hải","districtNameEn":"none","fakeId":851,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a357"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a631"},"districtName":"Thành phố Vĩnh Long","districtNameEn":"none","fakeId":855,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a358"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a632"},"districtName":"Huyện Long Hồ","districtNameEn":"none","fakeId":857,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a358"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a633"},"districtName":"Huyện Mang Thít","districtNameEn":"none","fakeId":858,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a358"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a634"},"districtName":"Huyện  Vũng Liêm","districtNameEn":"none","fakeId":859,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a358"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a635"},"districtName":"Huyện Tam Bình","districtNameEn":"none","fakeId":860,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a358"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a636"},"districtName":"Thị xã Bình Minh","districtNameEn":"none","fakeId":861,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a358"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a637"},"districtName":"Huyện Trà Ôn","districtNameEn":"none","fakeId":862,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a358"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a638"},"districtName":"Huyện Bình Tân","districtNameEn":"none","fakeId":863,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a358"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a639"},"districtName":"Thành phố Cao Lãnh","districtNameEn":"none","fakeId":866,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a359"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a63a"},"districtName":"Thành phố Sa Đéc","districtNameEn":"none","fakeId":867,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a359"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a63b"},"districtName":"Thành phố Hồng Ngự","districtNameEn":"none","fakeId":868,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a359"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a63c"},"districtName":"Huyện Tân Hồng","districtNameEn":"none","fakeId":869,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a359"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a63d"},"districtName":"Huyện Hồng Ngự","districtNameEn":"none","fakeId":870,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a359"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a63e"},"districtName":"Huyện Tam Nông","districtNameEn":"none","fakeId":871,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a359"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a63f"},"districtName":"Huyện Tháp Mười","districtNameEn":"none","fakeId":872,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a359"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a640"},"districtName":"Huyện Cao Lãnh","districtNameEn":"none","fakeId":873,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a359"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a641"},"districtName":"Huyện Thanh Bình","districtNameEn":"none","fakeId":874,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a359"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a642"},"districtName":"Huyện Lấp Vò","districtNameEn":"none","fakeId":875,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a359"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a643"},"districtName":"Huyện Lai Vung","districtNameEn":"none","fakeId":876,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a359"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a644"},"districtName":"Huyện Châu Thành","districtNameEn":"none","fakeId":877,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a359"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a645"},"districtName":"Thành phố Long Xuyên","districtNameEn":"none","fakeId":883,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35a"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a646"},"districtName":"Thành phố Châu Đốc","districtNameEn":"none","fakeId":884,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35a"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a647"},"districtName":"Huyện An Phú","districtNameEn":"none","fakeId":886,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35a"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a648"},"districtName":"Thị xã Tân Châu","districtNameEn":"none","fakeId":887,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35a"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a649"},"districtName":"Huyện Phú Tân","districtNameEn":"none","fakeId":888,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35a"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a64a"},"districtName":"Huyện Châu Phú","districtNameEn":"none","fakeId":889,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35a"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a64b"},"districtName":"Huyện Tịnh Biên","districtNameEn":"none","fakeId":890,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35a"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a64c"},"districtName":"Huyện Tri Tôn","districtNameEn":"none","fakeId":891,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35a"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a64d"},"districtName":"Huyện Châu Thành","districtNameEn":"none","fakeId":892,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35a"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a64e"},"districtName":"Huyện Chợ Mới","districtNameEn":"none","fakeId":893,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35a"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a64f"},"districtName":"Huyện Thoại Sơn","districtNameEn":"none","fakeId":894,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35a"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a650"},"districtName":"Thành phố Rạch Giá","districtNameEn":"Rach Gia city","fakeId":899,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35b"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a651"},"districtName":"Thành phố Hà Tiên","districtNameEn":"none","fakeId":900,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35b"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a652"},"districtName":"Huyện Kiên Lương","districtNameEn":"none","fakeId":902,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35b"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a653"},"districtName":"Huyện Hòn Đất","districtNameEn":"none","fakeId":903,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35b"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a654"},"districtName":"Huyện Tân Hiệp","districtNameEn":"none","fakeId":904,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35b"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a655"},"districtName":"Huyện Châu Thành","districtNameEn":"none","fakeId":905,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35b"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a656"},"districtName":"Huyện Giồng Riềng","districtNameEn":"none","fakeId":906,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35b"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a657"},"districtName":"Huyện Gò Quao","districtNameEn":"none","fakeId":907,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35b"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a658"},"districtName":"Huyện An Biên","districtNameEn":"none","fakeId":908,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35b"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a659"},"districtName":"Huyện An Minh","districtNameEn":"none","fakeId":909,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35b"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a65a"},"districtName":"Huyện Vĩnh Thuận","districtNameEn":"none","fakeId":910,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35b"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a65b"},"districtName":"Thành phố Phú Quốc","districtNameEn":"none","fakeId":911,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35b"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a65c"},"districtName":"Huyện Kiên Hải","districtNameEn":"none","fakeId":912,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35b"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a65d"},"districtName":"Huyện U Minh Thượng","districtNameEn":"none","fakeId":913,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35b"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a65e"},"districtName":"Huyện Giang Thành","districtNameEn":"none","fakeId":914,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35b"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a65f"},"districtName":"Quận Ninh Kiều","districtNameEn":"none","fakeId":916,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35c"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a660"},"districtName":"Quận Ô Môn","districtNameEn":"none","fakeId":917,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35c"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a661"},"districtName":"Quận Bình Thuỷ","districtNameEn":"none","fakeId":918,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35c"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a662"},"districtName":"Quận Cái Răng","districtNameEn":"none","fakeId":919,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35c"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a663"},"districtName":"Quận Thốt Nốt","districtNameEn":"none","fakeId":923,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35c"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a664"},"districtName":"Huyện Vĩnh Thạnh","districtNameEn":"none","fakeId":924,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35c"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a665"},"districtName":"Huyện Cờ Đỏ","districtNameEn":"none","fakeId":925,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35c"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a666"},"districtName":"Huyện Phong Điền","districtNameEn":"none","fakeId":926,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35c"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a667"},"districtName":"Huyện Thới Lai","districtNameEn":"none","fakeId":927,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35c"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a668"},"districtName":"Thành phố Vị Thanh","districtNameEn":"none","fakeId":930,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35d"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a669"},"districtName":"Thành phố Ngã Bảy","districtNameEn":"none","fakeId":931,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35d"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a66a"},"districtName":"Huyện Châu Thành A","districtNameEn":"none","fakeId":932,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35d"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a66b"},"districtName":"Huyện Châu Thành","districtNameEn":"none","fakeId":933,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35d"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a66c"},"districtName":"Huyện Phụng Hiệp","districtNameEn":"none","fakeId":934,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35d"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a66d"},"districtName":"Huyện Vị Thuỷ","districtNameEn":"none","fakeId":935,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35d"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a66e"},"districtName":"Huyện Long Mỹ","districtNameEn":"none","fakeId":936,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35d"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a66f"},"districtName":"Thị xã Long Mỹ","districtNameEn":"none","fakeId":937,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35d"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a670"},"districtName":"Thành phố Sóc Trăng","districtNameEn":"none","fakeId":941,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35e"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a671"},"districtName":"Huyện Châu Thành","districtNameEn":"none","fakeId":942,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35e"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a672"},"districtName":"Huyện Kế Sách","districtNameEn":"none","fakeId":943,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35e"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a673"},"districtName":"Huyện Mỹ Tú","districtNameEn":"none","fakeId":944,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35e"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a674"},"districtName":"Huyện Cù Lao Dung","districtNameEn":"none","fakeId":945,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35e"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a675"},"districtName":"Huyện Long Phú","districtNameEn":"none","fakeId":946,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35e"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a676"},"districtName":"Huyện Mỹ Xuyên","districtNameEn":"none","fakeId":947,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35e"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a677"},"districtName":"Thị xã Ngã Năm","districtNameEn":"none","fakeId":948,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35e"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a678"},"districtName":"Huyện Thạnh Trị","districtNameEn":"none","fakeId":949,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35e"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a679"},"districtName":"Thị xã Vĩnh Châu","districtNameEn":"none","fakeId":950,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35e"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a67a"},"districtName":"Huyện Trần Đề","districtNameEn":"none","fakeId":951,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35e"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a67b"},"districtName":"Thành phố Bạc Liêu","districtNameEn":"none","fakeId":954,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35f"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a67c"},"districtName":"Huyện Hồng Dân","districtNameEn":"none","fakeId":956,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35f"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a67d"},"districtName":"Huyện Phước Long","districtNameEn":"none","fakeId":957,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35f"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a67e"},"districtName":"Huyện Vĩnh Lợi","districtNameEn":"none","fakeId":958,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35f"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a67f"},"districtName":"Thị xã Giá Rai","districtNameEn":"none","fakeId":959,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35f"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a680"},"districtName":"Huyện Đông Hải","districtNameEn":"none","fakeId":960,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35f"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a681"},"districtName":"Huyện Hoà Bình","districtNameEn":"Hoa Binh district","fakeId":961,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a35f"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a682"},"districtName":"Thành phố Cà Mau","districtNameEn":"none","fakeId":964,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a360"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a683"},"districtName":"Huyện U Minh","districtNameEn":"none","fakeId":966,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a360"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a684"},"districtName":"Huyện Thới Bình","districtNameEn":"none","fakeId":967,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a360"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a685"},"districtName":"Huyện Trần Văn Thời","districtNameEn":"none","fakeId":968,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a360"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a686"},"districtName":"Huyện Cái Nước","districtNameEn":"none","fakeId":969,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a360"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a687"},"districtName":"Huyện Đầm Dơi","districtNameEn":"none","fakeId":970,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a360"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a688"},"districtName":"Huyện Năm Căn","districtNameEn":"none","fakeId":971,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a360"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a689"},"districtName":"Huyện Phú Tân","districtNameEn":"none","fakeId":972,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a360"},"__v":0}
+{"_id":{"$oid":"60b7a50631c6ba3de5e7a68a"},"districtName":"Huyện Ngọc Hiển","districtNameEn":"none","fakeId":973,"province_Id":{"$oid":"60b7a50331c6ba3de5e7a360"},"__v":0}

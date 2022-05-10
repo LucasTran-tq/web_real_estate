@@ -1,0 +1,490 @@
+.container__management__news {
+    padding: 16px;
+    width: 96%;
+    height: 96%;
+    border-radius: 10px;
+    text-align: center;
+    background: #fff;
+    margin: 16px 24px 24px 0;
+    float: right;
+}
+
+.content__management {
+    width: 100%;
+    height: 100%;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 6px;
+    position: relative;
+}
+
+.content__management .table_box {
+    height: 600px;
+}
+.content__management .table_box table {
+    width: 100%;
+    max-height: 625px;
+}
+
+.content__management .table_box tr:nth-child(even) {
+    background-color: rgba(249, 249, 249, 1);
+}
+
+.container__management__news .table_box td:nth-child(1) {
+    width: 5%;
+}
+.container__management__news .table_box td:nth-child(2) {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    max-width: 100px;
+}
+.container__management__news .table_box td:nth-child(3) {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    max-width: 400px;
+}
+
+.container__management__news .table_box td:last-child {
+    padding: 0 10px 0 20px;
+}
+.content__management button.btnAddNews {
+    width: 169px;
+    height: 40px;
+    background: rgba(161, 132, 116, 1);
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 6px;
+    position: absolute;
+    right: 0;
+    bottom: 16px;
+    margin: 0 19px 0 0;
+}
+
+.content__management .pagination {
+    position: absolute;
+    bottom: 0;
+    left: 40%;
+}
+
+.content__management .edit_del {
+    display: block;
+    width: 115px;
+    height: 76px;
+    position: absolute;
+    left: 90%;
+    top: 85%;
+    z-index: 1;
+    background-color: #fff;
+    border: 1px solid #000;
+}
+.content__management .dropdown-menu.show {
+    display: block !important;
+}
+.content__management .dropdown-menu button {
+    height: 38px;
+    width: 115px;
+    background-color: #fff;
+    border: 1px solid #000;
+}
+.content__management .dropdown-menu button:nth-child(2) {
+    border-top: none;
+}
+.form__add__news {
+    width: 442px;
+    min-height: 523px;
+    border-radius: 20px;
+    position: absolute;
+    top: 15%;
+    left: 30%;
+    padding: 28px 32px;
+    border: 1px solid;
+    background-color: #fff;
+    text-align: center;
+}
+.form__edit__news svg {
+    position: absolute;
+    width: 29px;
+    height: 28px;
+    fill: #c4c4c4;
+    right: 30px;
+    top: 30px;
+    cursor: pointer;
+}
+.form__add__news svg {
+    position: absolute;
+    width: 29px;
+    height: 28px;
+    fill: #c4c4c4;
+    right: 30px;
+    top: 30px;
+    cursor: pointer;
+}
+.form__add__news h1 {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 1;
+}
+.form__add__news p {
+    font-size: 16px;
+    font-weight: 500;
+    opacity: 0.5;
+}
+.form__add__news input,
+textarea {
+    width: 100%;
+    height: 100px;
+    margin-top: 24px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    padding: 16px 16px;
+    z-index: 1;
+    overflow-y: scroll !important;
+}
+.form__edit__news input,
+textarea {
+    width: 100%;
+    height: 100px;
+    margin-top: 24px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    padding: 16px 16px;
+    z-index: 1;
+    overflow-y: scroll !important;
+}
+input.upload__img {
+    height: 150px !important;
+}
+.form__actions {
+    width: 100%;
+    display: flex;
+    margin-top: 24px;
+    gap: 0 24px;
+    padding: 0 6px;
+}
+.form__actions button {
+    width: 168px;
+    height: 48px;
+    text-align: center;
+    border-radius: 10px;
+    color: #000;
+    font-weight: 500;
+    border: 1px solid #a18474;
+}
+.form__actions button:nth-child(2) {
+    background-color: #a18474;
+    color: #fff;
+}
+.fa-ellipsis-v:before {
+    cursor: pointer;
+}
+.container__management__news .pagination {
+    display: inline-block;
+    margin-top: 24px;
+}
+.container__management__news .pagination li {
+    display: inline-block;
+    width: unset;
+}
+
+.container__management__news .pagination a {
+    color: #a18474;
+    float: left;
+    padding: 3px 10.5px;
+    text-decoration: none;
+    transition: background-color 0.3s;
+    border: 1px solid #ddd;
+    margin: 0 4px;
+    border-radius: 5px;
+    border: 1px solid #a18474;
+    background-color: white;
+    cursor: pointer;
+}
+
+.container__management__news .pagination li.active a {
+    background-color: #a18474;
+    color: white;
+    border: 1px solid #a18474;
+}
+
+.container__management__news.pagination a:hover:not(.active) {
+    background-color: #ddd;
+}
+.image__content {
+    margin-top: 24px;
+    padding: 65.8px 59px;
+    border: 1px solid #a18474;
+    border-radius: 10px;
+}
+.image__content p.item__content-notice {
+    font-size: 14px !important;
+    font-weight: 400 !important;
+    color: #000000;
+    opacity: 1 !important;
+    line-height: calc(16.41 / 14);
+}
+.image__content p span {
+    font-size: 14px;
+    color: #a18474;
+    cursor: pointer;
+}
+.image__content-list {
+    margin-top: 24px;
+    padding: 16px 95px;
+    border: 1px solid #a18474;
+    border-radius: 10px;
+}
+.image__content-list-edit {
+    width: 376px;
+    margin-top: 24px;
+    padding: 15px 95px;
+    border: 1px solid #a18474;
+    border-radius: 10px;
+}
+.image__item {
+    width: 185.81px;
+    height: 118px;
+    border-radius: 10px;
+    image-rendering: pixelated;
+}
+.image__item:hover {
+    background-color: #c4c4c4;
+}
+.image__item .icon {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background-color: #fff;
+    position: absolute;
+    top: 8px;
+    right: 8px;
+}
+.image__item .icon svg {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    fill: #000;
+    right: 0px;
+    top: 0px;
+    cursor: pointer;
+}
+.image__item img {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+.form__edit__news {
+    width: 440px;
+    min-height: 592px;
+    padding: 0 32px 15px;
+    background-color: #fff;
+    border-radius: 20px;
+    position: absolute;
+    top: 45px;
+    left: 30%;
+    border: 1px solid #a18474;
+}
+.form__edit__news h1 {
+    margin-bottom: 7px;
+    margin-top: 28px;
+    font-size: 24px;
+    text-align: center;
+    line-height: 1;
+}
+.form__edit__news p {
+    font-size: 16px;
+    opacity: 0.5;
+    text-align: center;
+    font-weight: 400;
+    line-height: calc(18 / 16);
+}
+.content__management .table_box thead tr {
+    border-bottom: 1px solid #000;
+}
+.content__management .table_box thead tr th {
+    font-weight: normal;
+}
+
+.content__management .table_box tbody tr td {
+    font-weight: 500 !important;
+    font-size: 14px !important;
+}
+.form__edit__news input {
+    width: 376px;
+    height: 56px;
+    margin-top: 24px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    padding: 18px 16px;
+    z-index: 1;
+}
+
+.image__content__edit {
+    margin-top: 24px;
+    padding: 66.13px 58px;
+    border: 1px solid #a18474;
+    border-radius: 10px;
+}
+.image__content__edit p {
+    font-size: 14px !important;
+    font-weight: 400;
+    opacity: 1 !important;
+}
+.image__content__edit p span {
+    font-size: 14px !important;
+    color: #a18474;
+}
+
+.content__management .table_box table {
+    width: 100%;
+    max-height: 625px;
+}
+
+.content__management .table_box tr:nth-child(even) {
+    background-color: rgba(249, 249, 249, 1);
+}
+.content__management .table_box tr {
+    height: 40px;
+    padding: 12px 10px;
+}
+.content__management.table_box th {
+    height: 40px;
+    padding: 12px 10px;
+}
+.content__management.table_box td {
+    height: 40px;
+    padding: 12px 10px;
+}
+.container__management__news .table_box td:last-child {
+    padding: 0 10px 0 20px;
+}
+.content__management button.btnAddNews {
+    width: 169px;
+    height: 40px;
+    background: rgba(161, 132, 116, 1);
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 6px;
+    position: absolute;
+    right: 0;
+    margin: 20px 19px 0 0;
+}
+
+.content__management .pagination {
+    position: absolute;
+    bottom: 0;
+    left: 40%;
+}
+
+.content__management .edit_del {
+    display: block;
+    width: 115px;
+    height: 76px;
+    position: absolute;
+    left: 90%;
+    top: 85%;
+    z-index: 1;
+    background-color: #fff;
+    border: 1px solid #000;
+}
+.content__management .dropdown-menu {
+    left: -59px !important;
+    right: 0px !important;
+    display: none;
+    z-index: 999;
+}
+
+.form__add__news h1 {
+    font-size: 24px;
+    font-weight: 500;
+}
+.form__add__news p {
+    font-size: 16px;
+    font-weight: 500;
+    opacity: 0.5;
+}
+.form__add__news input {
+    width: 100%;
+    height: 56px;
+    margin-top: 24px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    padding: 18px 16px;
+    z-index: 1;
+}
+
+input.upload__img {
+    height: 150px !important;
+}
+.form__actions {
+    width: 100%;
+    display: flex;
+    margin-top: 24px;
+    gap: 0 24px;
+    padding: 0 6px;
+}
+.form__actions button {
+    width: 168px;
+    height: 48px;
+    text-align: center;
+    border-radius: 10px;
+    color: #000;
+    font-weight: 500;
+    border: 1px solid #a18474;
+}
+.form__actions button:nth-child(2) {
+    background-color: #a18474;
+    color: #fff;
+}
+.fa-ellipsis-v:before {
+    cursor: pointer;
+}
+.annouce__delete {
+    width: 442px;
+    min-height: 197px;
+    border-radius: 20px;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    padding: 28px 40px 24px;
+    background-color: #fff;
+    border: 1px solid #000;
+}
+.annouce__delete h1 {
+    font-size: 24px !important;
+    font-weight: 500 !important;
+}
+.annouce__delete p {
+    font-size: 16px;
+    font-weight: 400 !important;
+}
+.annouce__delete button {
+    margin-top: 24px;
+    width: 168px;
+    height: 48px;
+    border: 1px solid rgba(161, 132, 116, 1);
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 500;
+}
+.annouce__delete button:nth-child(1) {
+    color: rgba(0, 0, 0, 1) !important;
+    margin-right: 24px;
+    background: #ffffff !important;
+}
+.annouce__delete button:nth-child(2) {
+    color: rgba(255, 255, 255, 1);
+    background: rgba(161, 132, 116, 1);
+}
+.annouce__delete .btn__x {
+    position: absolute;
+    top: 0;
+    right: 33px;
+    width: 30px !important;
+    font-size: 20px;
+    color: rgba(196, 196, 196, 1);
+    border: none !important;
+}
+

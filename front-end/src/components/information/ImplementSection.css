@@ -1,0 +1,47 @@
+button:focus {
+  outline: none;
+}
+.implement-section-container {
+  width: 100%;
+  height: 706px;
+  background: rgba(161, 132, 116, 0.1);
+  position: relative;
+}
+.implement-img-background {
+  width: 100%;
+  height: 220px;
+  position: absolute;
+  bottom: 0px;
+}
+.implement-absolute {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 82px;
+  width: 888px;
+  z-index: 99;
+}
+.implement-dot-container {
+  text-align: center;
+  position: absolute;
+  top: calc(100% + 22px);
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+}
+
+.implement-dot {
+  width: 10px;
+  height: 10px;
+  background: #a18474;
+  border-radius: 50%;
+  margin-right: 31px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.implement-dot.active > span {
+  padding: 10px;
+  border-radius: 50%;
+  border: 1px solid #a18474;
+}

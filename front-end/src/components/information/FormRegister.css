@@ -1,0 +1,30 @@
+::placeholder{
+    font-weight: 500;
+    font-size: 18px;
+    line-height:21.09px;
+}
+.info-form-register{
+    padding: 13px 16px;
+    background: #fff;
+    /* width: 546px; */
+}
+.info-form-input{
+   padding: 13px 16px 14px 16px;
+   border: 1px solid #A18474;
+   margin-right: 12px;
+   width: 366px;
+}
+.info-form-btn{
+    padding: 13px 16px 14px 16px;
+    background: #A18474;
+    color: #fff;
+    font-size: 18px;
+}
+
+.form-register-title{
+ font-size: 24px;
+ color: #fff;
+ line-height:28.13px;
+ margin-bottom: 12px;
+ z-index: 99;
+}
