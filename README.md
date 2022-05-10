@@ -1,7 +1,5 @@
 # Kênh Tài Liệu
 
-https://drive.google.com/drive/u/1/folders/1eHj2mr5eIsKbpJ5ZpKZVgw5re3WNmOrB
-
 # Vui lòng đọc trước khi test
 # Cho việc test trên môi trường development (localhost)
 1. Sửa biến REACT_APP_API_URL từ port 3000 thành 5000 trong .env front end
