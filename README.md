@@ -97,5 +97,4 @@ The server is listening at port 5000
 
 ## 📝 License
 
-Copyright © 2021 [Thang Phu Phat](https://github.com/LucasTran-tq). <br />
-This project is [MIT](https://github.com/LucasTran-tq/Business-Management-AspNet/blob/main/LICENSE) licensed.
+Copyright © 2021.
